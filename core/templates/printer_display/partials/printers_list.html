@@ -1,0 +1,22 @@
+<div class="flex flex-row flex-wrap">
+    {% if printer_model == "Core 550X" %}
+        {% for printer in printers %}
+            <a @click="
+                isModalOpen = true;
+                selected_printer = '{{ printer.equipment_id }}';
+            ">
+                <c-printer-display.printer-item-550X  printer_id="{{ printer.equipment_id }}" />
+            </a>
+        {% endfor %}
+    {% elif printer_model == "Core 530X" %}
+        {% for printer in printers %}
+            <c-printer-display.printer-item-530X  printer_id="{{ printer.equipment_id }}" />
+        {% endfor %}
+    {% elif printer_model == "Core 550XT" %}
+        {% for printer in printers %}
+            <c-printer-display.printer-item-550XT printer_id="{{ printer.equipment_id }}" />
+        {% endfor %}
+    {% else %}
+        <p>Invalid printer type</p>
+    {% endif %}
+</div>

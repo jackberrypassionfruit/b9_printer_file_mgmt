@@ -1,0 +1,35 @@
+{% extends 'base/base.html' %}
+{% load static %}
+
+
+{% block content %}
+  <div
+    x-data="{
+      isModalOpen: true,
+      selected_printer: 'P6-078'
+    }"
+  >
+    <div class="m-2">
+      <label for="printer-model" class="font-bold">Choose a printer model:</label>
+      <select
+        name="printer_model"
+        id="printer-model"
+        class="p-1 rounded-lg"
+        hx-get='/get-printers'
+        hx-target="#list-printers"
+        hx-swap="innerHTML"
+        hx-trigger="change"
+      >
+        <option value="Core 550X">550X</option>
+        <option value="Core 550XT">550XT</option>
+        <option value="Core 530X">530X</option>
+      </select>
+    </div>
+    
+    <div id="list-printers">
+      {% include 'printer_display/partials/printers_list.html' with printer_model="Core 550X" printers=printers_550X %}
+    </div>
+
+    {% include 'printer_display/partials/popup-modal.html' %}
+  </div>
+{% endblock %}

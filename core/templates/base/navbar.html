@@ -1,0 +1,20 @@
+{% load static %}
+
+<nav class="navbar bg-blue-100">
+    <a href="{% url 'index' %}" class="btn btn-ghost text-4xl">
+        <img class="h-full" src="{% static 'img/vcm_logo_cropped.png' %}">
+        <p class="p-4">B9 Printer MGMT</p>
+    </a>
+
+    {% if user.is_authenticated %}
+    <!-- User is authenticated: Show Logout button -->
+    <c-base.navbar-item slug="account_logout">Logout</c-base.navbar-item>
+    {% else %}
+    <!-- User is not authenticated: Show Login and Register links -->
+    <c-base.navbar-item slug="account_login">Login</c-base.navbar-item>
+    <c-base.navbar-item slug="account_signup">Register</c-base.navbar-item>
+    {% endif %}
+    
+    <c-base.navbar-item slug="printer_display">Printer Display</c-base.navbar-item>
+
+</nav>

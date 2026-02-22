@@ -1,0 +1,21 @@
+{% extends 'base/base.html' %}
+{% load static %}
+
+{% block content %}
+  <div class="flex flex-row">
+    <div class="flex flex-col items-center" >
+        <h1 class="text-6xl py-10 w-[65%] text-center">
+            Let's configure some printers baby!
+        </h1>
+        <h3 class="text-4xl py-5">
+          <p><em>Step 1</em>: <strong>Slice all prints for the week</strong></p>
+          <p><em>Step 2</em>: <strong>Add Files to the printer for the given schedule</strong></p>
+          <p><em>Step 3</em>: <strong>Literally profit</strong></p>
+        </h3>
+        {% comment %} <c-demos.audio-player media_filename="Introducing Voices Carry Media.mp3"/> {% endcomment %}
+        <a href="{% url 'printer_display' %}" class="btn btn-secondary text-4xl m-4 p-10">
+          <p class="p-4">Start MGMT</p>
+        </a>
+      </div>
+  </div>
+{% endblock %}

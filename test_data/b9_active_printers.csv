@@ -1,0 +1,69 @@
+equipment_id,common_name,model_number,serial_number,ip_address,condition,details,printer_hood
+P6-006    ,Linus,Core 550X,1830BX100400,10.6.0.206,Production,Updated printer details to revision 10.,1
+P6-008    ,Marcie,Core 550X,1909BX100492,10.6.0.207,Production,Updated printer details to revision 11.,1
+P6-009    ,Lucy,Core 550X,1909BX100493,10.6.0.208,Production,Updated printer details to revision 8.,1
+P6-010    ,Ponyo,Core 550X,1830BX100391,10.6.0.204,Production,Updated printer details to revision 10.,1
+P6-011    ,Totoro,Core 550X,1830BX100389,10.6.0.247,RMA,Updated printer details to revision 17.,1
+P6-012    ,Spiff,Core 550X,1814BX100343,10.6.0.203,Production,Updated printer details to revision 10.,7
+P6-013    ,Hobbes,Core 550X,1734BX100285,10.6.0.202,Engineering,Updated printer details to revision 11.,4
+P6-014    ,Calvin,Core 550X,1734BX100291,10.6.0.201,Production,Updated printer details to revision 10.,2
+P6-026    ,Charlie Brown,Core 550X,1939BX100567,10.6.0.209,Production,Updated printer details to revision 10.,2
+P6-027    ,Schroeder,Core 550X,1939BX100568,10.6.0.210,Production,Updated printer details to revision 6.,2
+P6-028    ,Franklin,Core 550X,1939BX100569,10.6.0.211,Production,Updated printer details to revision 10.,7
+P6-030    ,Aphrodite,Core 550XT,1950BXT100593,10.6.0.213,Production,Updated printer details to revision 7.,5
+P6-031    ,Diana,Core 550XT,1950BXT100594,10.6.0.212,Production,Updated printer details to revision 7.,5
+P6-032    ,Sally,Core 550X,2002BX100600,10.6.0.214,Offline,Updated printer details to revision 4.,5
+P6-033    ,Patty,Core 550X,2002BX100601,10.6.0.215,Offline,Updated printer details to revision 9.,10
+P6-052    ,Artemis,Core 550XT,1950BXT100592,10.6.0.216,Offline,Updated printer details to revision 6.,2
+P6-071    ,Venus,Core 550XT,2019BXT100631,10.6.0.217,Production,Updated printer details to revision 6.,5
+P6-072    ,Demeter,Core 550XT,2019BXT100632,10.6.0.218,Production,Updated printer details to revision 8.,5
+P6-073    ,Hera,Core 550XT,2019BXT100633,10.6.0.219,Offline,Updated printer details to revision 6.,5
+P6-075    ,Garfield,Core 550X,2014BX100626,10.6.0.220,Production,Updated printer details to revision 8.,2
+P6-076    ,Odie,Core 550X,2014BX100629,10.6.0.221,Production,Updated printer details to revision 9.,2
+P6-077    ,Odin,Core 550X,2014BX100628,10.6.0.222,Production,Updated printer details to revision 6.,3
+P6-078    ,Thor,Core 550X,2014AX100627,10.6.0.228,Production,Updated printer details to revision 8.,3
+P6-079    ,Loki,Core 550X,2014BX100625,10.6.0.224,Production,Updated printer details to revision 8.,3
+P6-080    ,Heimdall,Core 550X,2007AX100612,10.6.0.225,Production,Updated printer details to revision 9.,7
+P6-081    ,Tyr,Core 550X,2007BX100613,10.6.0.226,Production,Updated printer details to revision 8.,3
+P6-082    ,Baldur,Core 550X,2007BX100614,10.6.0.227,Production,Updated printer details to revision 10.,1
+P6-098    ,Bastet,Core 550XT,2025BXT100646,10.6.0.229,Production,Updated printer details to revision 7.,5
+P6-099    ,Hathor,Core 550XT,2025BXT100645,10.6.0.240,Offline,Updated printer details to revision 7.,5
+P6-136    ,Freya,Core 550XT,2032BXT100654,10.6.0.232,Production,Updated printer details to revision 12.,6
+P6-157    ,Bane,Core 550XT,2040BXT100663,10.6.0.233,Production,Updated printer details to revision 8.,6
+P6-162    ,Snoopy,Core 550X,2022BX100642,10.6.0.234,Production,Updated printer details to revision 7.,3
+P6-163    ,Woodstock,Core 550X,2022BX100643,10.6.0.235,Offline,PASSED CALVAL ON 10/1/2025,NULL
+P6-165    ,Aurora,Core 550XT,2112BXTP0011,10.6.0.236,Production,Updated printer details to revision 8.,6
+P6-166    ,Juno,Core 550XT,2112BXTP0012,10.6.0.237,Offline,Updated printer details to revision 6.,1
+P6-167    ,Selene,Core 550XT,2112BXTP0013,10.6.0.238,Production,Updated printer details to revision 7.,7
+P6-354    ,Hephaestus,Core 550XT,2217BXT100771,10.6.0.241,Production,Updated printer details to revision 7.,7
+P6-355    ,Hermes,Core 550XT,2217BXT100769,10.6.0.175,Production,Updated printer details to revision 9.,6
+P6-356    ,Ares,Core 550XT,2217BXT100770,10.6.0.249,Production,Updated printer details to revision 8.,6
+P6-552    ,Captain America,Core 530X,2443AX100840,10.6.0.244,Production,Updated printer details to revision 8.,M1
+P6-553    ,Iron Man,Core 530X,2443AX100839,10.6.0.245,Production,Updated printer details to revision 6.,M1
+P6-586    ,Black Widow,Core 530X,2510AFVX100847,10.6.0.205,RMA,,NULL
+P6-587    ,Hulk,Core 530X,2510AX100848,10.6.0.200,Production,Updated printer details to revision 10.,M1
+P6-588    ,Spider Man,Core 530X,2510AX100849,10.6.0.199,Production,Updated printer details to revision 12.,M1
+P6-589    ,Ant Man,Core 530X,Unknown,169.254.228.64,Offline,Sent back to b9,NULL
+P6-596    ,Cyclops,Core 530X,2510AX100851,10.6.0.241,Production,Updated printer details to revision 8.,M1
+P6-597    ,Groot,Core 530X,2515AX100853,10.6.0.242,Production,Updated printer details to revision 4.,M1
+P6-598    ,Nightcrawler,Core 530X,2515AX100852,10.6.0.251,Production,Updated printer details to revision 4.,M1
+P6-599    ,Gambit,Core 530X,2510AX100850,10.6.0.243,Production,Updated printer details to revision 5.,M1
+P6-600    ,Bullseye,Core 530X,2515AX100854,10.6.0.252,Production,Updated printer details to revision 7.,M1
+P6-604    ,Doctor Strange,Core 530X,,,Offline,Updated printer details to revision 6.,1
+P6-605    ,Daredevil,Core 530X,2515AX100856,10.6.0.248,Production,Updated printer details to revision 10.,M1
+P6-606    ,Falcon,Core 530X,2515AX100855,10.6.0.246,Production,Updated printer details to revision 9.,M1
+P6-624    ,Hawkeye,Core 530X,2520AX100859,10.6.0.231,Production,Updated printer details to revision 3.,M2
+P6-642    ,Iron Fist,Core 530X,2520AX100858,10.6.0.239,Production,Updated printer details to revision 4.,M2
+P6-644    ,Professor X,Core 530X,2523AX100864,10.6.0.223,Production,Updated printer details to revision 5.,M2
+P6-645    ,Black Panther,Core 530X,2520AX100860,10.6.0.174,Production,Updated printer details to revision 9.,M2
+P6-646    ,Wolverine,Core 530X,2520AX100862,10.6.0.173,Production,Updated printer details to revision 6.,M2
+P6-647    ,Ororo Munroe,Core 530X,2520AX100857,10.6.0.253,Production,Updated printer details to revision 5.,M2
+P6-648    ,Tigra,Core 530X,2520AX100861,10.6.0.172,Production,Updated printer details to revision 6.,M2
+P6-649    ,Elektra,Core 530X,2523AX100865,10.6.0.169,Production,Updated printer details to revision 7.,M2
+P6-650    ,Kitty Pryde,Core 530X,2524AX100868,10.6.0.170,Production,Updated printer details to revision 8.,M2
+P6-651    ,Sue Storm,Core 530X,2523AX100863,10.6.2.50,Production,Updated printer details to revision 5.,M2
+P6-652    ,Ms. Marvel,Core 530X,2524AX100866,10.6.0.32,RMA,Updated printer details to revision 8.,M2
+P6-653    ,The Scarlet Witch,Core 530X,2524AX100867,10.6.0.171,Production,Updated printer details to revision 6.,M2
+P6-654    ,Sassy capybara,FORM 4,FORM4-SassyCapybara,10.6.0.85,Production,,4
+P6-690    ,Hulking Crab,FORM 4,FORM4-HulkingCrab,10.6.0.87,Production,Updated printer details to revision 2.,4
+P6-691    ,Trusting Marlin,FORM 4,Form4-TrustingMarlin,10.6.0.97,Production,Updated printer details to revision 2.,4
