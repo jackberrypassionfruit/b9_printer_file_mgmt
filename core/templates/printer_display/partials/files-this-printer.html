@@ -1,0 +1,44 @@
+<div id="files-this-printer">
+    <ul>
+        {% for file in files %}
+            <li 
+                class="list-disc flex flex-row items-center justify-between"
+                x-data="{confirm_delete: false}"
+            >
+                <a 
+                    class="btn btn-primary max-w-md h-auto p-1"
+                    href="{{ MEDIA_URL }}b9_printer_files/{{ file.this_printer }}/{{ file.file_name }}"
+                    download
+                >
+                    {{ file.file_name }}
+                </a>
+                <a class="btn btn-error m-2" @click="confirm_delete = !confirm_delete">
+                    <p x-show="!confirm_delete">DELETE</p>
+                    <p x-show="confirm_delete">CANCEL</p>
+                </a>
+                <form 
+                    x-show="confirm_delete"
+                    hx-post="{% url 'b9_files' %}"
+                    hx-vals="
+                        selected_printer: '{{ file.this_printer}}',
+                        selected_file: '{{ file.file_name }}',
+                        method: 'delete_file'
+                    "
+                    hx-target="#files-this-printer"
+                    hx-swap="innerHTML"
+                >
+                    {% csrf_token %}
+                    {% comment %} <input type="hidden" name="selected_printer" value="{{ file.this_printer}}"></input>
+                    <input type="hidden" name="selected_file" value="{{ MEDIA_URL }}b9_printer_files/{{ file.this_printer }}/{{ file.file_name }}"></input> {% endcomment %}
+                    <button class="btn btn-accent m-2">CONFIRM</button>
+                </form>
+            </li>
+        {% empty %}
+            <p><em>There are no files on this printer.</em></p>
+        {% endfor %}
+    </ul>
+    
+    <div class="my-4">
+        {% include 'printer_display/file_upload_form.html' %}
+    </div>
+</div>

@@ -1,10 +1,15 @@
 <div class="flex flex-row flex-wrap">
     {% if printer_model == "Core 550X" %}
         {% for printer in printers %}
-            <a @click="
-                isModalOpen = true;
-                selected_printer = '{{ printer.equipment_id }}';
-            ">
+            <a  @click="
+                    isModalOpen = true;
+                    selected_printer = '{{ printer.equipment_id }}';
+                "
+                hx-vals="selected_printer: '{{ printer.equipment_id }}'"
+                hx-get="{% url 'b9_files' %}"
+                hx-target="#files-this-printer"
+                hx-swap="innerHTML"
+            >
                 <c-printer-display.printer-item-550X  printer_id="{{ printer.equipment_id }}" />
             </a>
         {% endfor %}

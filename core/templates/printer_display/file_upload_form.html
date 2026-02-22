@@ -1,0 +1,14 @@
+<form id="file-upload"
+    method="post" 
+    enctype="multipart/form-data" 
+    hx-post="{% url 'b9_files' %}" 
+    hx-vals="method: 'upload_file'"
+    hx-encoding="multipart/form-data"
+    hx-target="#files-this-printer"
+    hx-swap="innerHTML"
+>
+    {% csrf_token %}
+    {{ form.as_p }}
+    <input type="hidden" name="selected_printer" x-bind:value="selected_printer">
+    <button type="submit" class="border-2 border-solid bg-blue-400 rounded-lg p-2 mt-2">Add File</button>
+</form>

@@ -5,8 +5,8 @@
 {% block content %}
   <div
     x-data="{
-      isModalOpen: true,
-      selected_printer: 'P6-078'
+      isModalOpen: false,
+      selected_printer: ''
     }"
   >
     <div class="m-2">
@@ -25,7 +25,7 @@
         <option value="Core 530X">530X</option>
       </select>
     </div>
-    
+
     <div id="list-printers">
       {% include 'printer_display/partials/printers_list.html' with printer_model="Core 550X" printers=printers_550X %}
     </div>

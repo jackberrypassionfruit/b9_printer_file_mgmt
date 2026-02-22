@@ -1,0 +1,4288 @@
+
+Has context menu
+I think it did, didnt hear anything this mo... by Ward, Peter
+Ward, Peter
+8/19 5:42 AM
+
+I think it did, didnt hear anything this morning and everything seems to be working fine now
+Begin Reference, Anderson, NickWe have one ... by Anderson, Nick
+Anderson, Nick
+8/19 6:44 AM
+Poly6 Floor28/18/2025 7:02 AM
+Anderson, NickWe have one part for job number 6182569 that is quarantined and holding up the job from moving, number 36087-569B. Can you havre a look and see what we need to do to keep it moving?
+
+This part printed badly. The root is way shorter than it should be. I think this is a known issue with printer 596. You can scrap this part so the job can move along.
+hello by Poly6 Floor2
+Poly6 Floor2
+8/20 4:55 AM
+
+hello
+Anderson,   Nick by Poly6 Floor2
+Poly6 Floor2
+8/20 4:55 AM
+
+Anderson,
+ Nick
+accidently power off the ct without doing t... by Poly6 Floor2
+Poly6 Floor2
+8/20 4:56 AM
+
+accidently power off the ct without doing the artifact scan
+Im scanning the first scan first by Poly6 Floor2
+Poly6 Floor2
+8/20 4:56 AM
+
+Im scanning the first scan first
+do we need to power off again and scan the ... by Poly6 Floor2
+Poly6 Floor2
+8/20 4:57 AM
+
+do we need to power off again and scan the artifact again for a second time
+Sherman,   Jeff by Poly6 Floor2
+Poly6 Floor2
+8/20 4:58 AM
+
+Sherman,
+ Jeff
+No. But you do need to take the last set of... by Sherman, Jeff
+Sherman, Jeff
+8/20 4:58 AM
+No. But you do need to take the last set of parts that were scanned prior to powering off the machine and scan them again. That should be first thing to do after running the artefact scan.
+i need the job number by Poly6 Floor2
+Poly6 Floor2
+8/20 4:59 AM
+
+i need the job number
+then by Poly6 Floor2
+Poly6 Floor2
+8/20 4:59 AM
+
+then
+Nothing scanned since the last artefact sca... by Sherman, Jeff
+Sherman, Jeff
+8/20 4:59 AM
+Nothing scanned since the last artefact scan can move since none of those parts are bracketed.
+so the artifact has been scan. once the art... by Poly6 Floor2
+Poly6 Floor2
+8/20 5:00 AM
+
+so the artifact has been scan. once the arttifact pass we are good to run scnas?
+just want to want make sure since the first... by Poly6 Floor2
+Poly6 Floor2
+8/20 5:01 AM
+
+just want to want make sure since the first artifact was not scan
+image by Poly6 Floor2
+Poly6 Floor2
+8/20 5:01 AM
+
+image
+just want to make ssure its doesnt affect t... by Poly6 Floor2
+Poly6 Floor2
+8/20 5:01 AM
+
+just want to make ssure its doesnt affect the pre- home and post homing stuff
+I'm at the vet atm. You can use the scan hi... by Anderson, Nick
+Anderson, Nick
+8/20 5:01 AM
+
+I'm at the vet atm. You can use the scan history log. It's the aperture button in the top middle of that Pic
+Once you again scan the last set of parts t... by Sherman, Jeff
+Sherman, Jeff
+8/20 5:04 AM
+Once you again scan the last set of parts that were scanned prior to powering the machine down you are good to continue scanning new parts. But nothing that was scanned yesterday/this morning can be moved out of rebatch until you hear from us.
+do we need to reroute the last scan cores b... by Poly6 Floor2
+Poly6 Floor2
+8/20 5:09 AM
+
+do we need to reroute the last scan cores back to be scan\
+or can i just ad hoc them? by Poly6 Floor2
+Poly6 Floor2
+8/20 5:09 AM
+
+or can i just ad hoc them?
+No. Adhoc scan. by Sherman, Jeff
+Sherman, Jeff
+8/20 5:09 AM
+No. Adhoc scan.
+ok by Poly6 Floor2
+Poly6 Floor2
+8/20 5:09 AM
+
+ok
+image by Poly6 Floor2
+Poly6 Floor2
+8/20 5:13 AM
+
+image
+this is the SR  by Poly6 Floor2
+Poly6 Floor2
+8/20 5:13 AM
+
+this is the SR 
+Parts have been rescanned.  Can you let us ... by Sirbak, Brian
+Sirbak, Brian
+8/20 6:25 AM
+
+Parts have been rescanned.  Can you let us know when we are good to scan production parts?
+
+Thanks, 
+Jeff explicitly stated a couple messages up... by Anderson, Nick
+Anderson, Nick
+8/20 6:26 AM
+
+Jeff explicitly stated a couple messages up that you can keep scanning as soon as that verification scan was run.
+You are good to rebatch anything scanned pr... by Anderson, Nick
+Anderson, Nick
+8/20 8:55 AM
+
+You are good to rebatch anything scanned prior to this mornings artifact scan now
+Hey Nick, could you re route job #6183060 b... by Poly6 Floor2
+Poly6 Floor2
+8/20 9:35 PM
+
+Hey Nick, could you re route job #6183060 back so I can CT scan the parts, it is a rework that is stuck in Final Visual
+I can't send jobs back once they pass rebat... by Anderson, Nick
+Anderson, Nick
+8/20 9:36 PM
+
+I can't send jobs back once they pass rebatch. I'll have to get Rob to help out tomorrow
+what if I AD-Hoc those parts? by Poly6 Floor2
+Poly6 Floor2
+8/20 9:36 PM
+
+what if I AD-Hoc those parts?
+The data won't tie to the parts. Ad-hoc onl... by Anderson, Nick
+Anderson, Nick
+8/20 9:37 PM
+
+The data won't tie to the parts. Ad-hoc only works for engineering data, not production
+ok by Poly6 Floor2
+Poly6 Floor2
+8/20 9:37 PM
+
+ok
+I will leave that job on the Incoming Final... by Poly6 Floor2
+Poly6 Floor2
+8/20 9:38 PM
+
+I will leave that job on the Incoming Final CT Scan rack then
+What does Quarantined mean? image by Unknown User
+Gagnon, Beth
+8/21 11:40 AM
+
+What does Quarantined mean?
+
+image
+Analysis failed and you won't see data unle... by Anderson, Nick
+Anderson, Nick
+8/21 11:42 AM
+
+Analysis failed and you won't see data unless I take some some of action. I will look into this part now
+Thanks Nick by Unknown User
+Gagnon, Beth
+8/21 11:44 AM
+
+Thanks Nick
+I havnt forgotten about this. Its a weird f... by Anderson, Nick
+Anderson, Nick
+8/21 1:47 PM
+
+I havnt forgotten about this. Its a weird failure mode I havnt seen before that I am trying to resolve
+That part was misloaded in the fixture. I a... by Anderson, Nick
+Anderson, Nick
+8/21 2:17 PM
+
+That part was misloaded in the fixture. I am going to send that scan back to be redone.
+Artifact scan #1 image by Poly6 Floor2
+Poly6 Floor2
+8/24 7:39 PM
+
+Artifact scan #1
+
+image
+we dont know how to move foward with cleanz... by Poly6 Floor2, has an attachment.
+Poly6 Floor2
+8/25 12:07 AM
+
+we dont know how to move foward with cleanzal 3 due to us not being able to touch anything behind cleanzal 3 
+image AD-HOC scan, CT -VER was not availabl... by Poly6 Floor2
+Poly6 Floor2
+8/28 6:23 PM
+
+image
+
+AD-HOC scan, CT -VER was not available and the last time it shows in Cores Hub that it was scanned was on 08/27 in the AM
+Hey team, there is bin that has job#6204031... by Poly6 Floor2
+Poly6 Floor2
+9/1 7:08 PM
+
+Hey team, there is bin that has job#6204031 on the CT scanner table. What are we suppose to do with these parts?
+image Post-Homing #2 by Poly6 Floor2
+Poly6 Floor2
+9/1 8:49 PM
+
+image
+
+Post-Homing #2
+image AD HOC for artifact scan by Poly6 Floor2
+Poly6 Floor2
+9/2 7:42 PM
+
+image
+
+AD HOC for artifact scan
+image I forgot to close the filter like a d... by Poly6 Floor2
+Poly6 Floor2
+9/3 5:25 AM
+
+image
+
+I forgot to close the filter like a dumb dumb. Please use this record as the first artifact scan
+Message by Sirbak, Brian
+Sirbak, Brian
+9/3 8:49 AM
+Mansperger, Rob9/3/2025 8:43 AM
+
+ 
+6194516
+6196552
+6186561
+6190094
+6186562
+6182564
+6186556
+6186570
+6182547
+6186555
+6190103
+6186554
+6186557
+6190087
+6182568
+6190093
+6193488
+6190088
+6190089
+6182556
+6190090
+6182545
+6186546
+6186548
+6190098
+6186572
+6190097
+6182558
+6193075
+6182555
+6186560
+
+ 
+as far as I know, all jobs that need to be ... by Mansperger, Rob
+Mansperger, Rob
+9/3 1:29 PM
+
+as far as I know, all jobs that need to be moved back to CT for scanning have been updated in Cores Hub. If any more come up, please let me know here or directly and I'll correct them in the morning
+Thanks Rob.   Are all of these jobs going t... by O'Riordan, Brian
+O'Riordan, Brian
+9/3 3:05 PM
+
+Thanks Rob.   Are all of these jobs going to need to be manually moved back to the step they were at before the rework once through CT?  Mostly they will be going back to either CMM or Final Visual, I believe.  Importantly, we want to avoid parts that already have CMM data from having to go back through CMM.
+Need to move a lot of parts tonight at CT C... by O'Riordan, Brian
+O'Riordan, Brian
+9/3 6:49 PM
+
+Need to move a lot of parts tonight at CT Chris!
+On it by Poly6 Floor2
+Poly6 Floor2
+9/3 6:52 PM
+
+On it
+thanks man by O'Riordan, Brian
+O'Riordan, Brian
+9/3 6:53 PM
+
+thanks man
+Was trying to figure out what jobs needed t... by Poly6 Floor2
+Poly6 Floor2
+9/3 6:53 PM
+
+Was trying to figure out what jobs needed to be rescanned
+all the 1023's on the incoming to final CT ... by O'Riordan, Brian
+O'Riordan, Brian
+9/3 6:53 PM
+
+all the 1023's on the incoming to final CT rack.  particularly the ones with the red markings on the end
+got it! by Poly6 Floor2
+Poly6 Floor2
+9/3 6:56 PM
+
+got it!
+Sirbak,   Brian   Ward,   Peter  is everyth... by Poly6 Floor2
+Poly6 Floor2
+9/4 6:34 PM
+
+Sirbak,
+ Brian
+ Ward,
+ Peter
+ is everything on "Completed Final CT Scan" rack completed?
+image image is this a glitch? by Poly6 Floor2
+Poly6 Floor2
+9/5 2:35 AM
+
+image
+
+image
+
+is this a glitch?
+image by Poly6 Floor2
+Poly6 Floor2
+9/5 2:36 AM
+
+image
+Job 6186544 has fail on a part (1023) but i... by Poly6 Floor2
+Poly6 Floor2
+9/5 5:01 AM
+
+Job 6186544 has fail on a part (1023) but instead of going to MRB it is trying to move to sort.  Rob is this something you can help with?
+
+Thanks, 
+
+image
+Job 6186560 shows 20 parts but only has 13 ... by Poly6 Floor2
+Poly6 Floor2
+9/5 5:10 AM
+
+Job 6186560 shows 20 parts but only has 13 on the tray.  It looks like doubles but it doesn't give me an option to move to MRB (1023's).
+
+image
+Job 6186552 has duplicate jobs and has more... by Poly6 Floor2
+Poly6 Floor2
+9/5 5:23 AM
+
+Job 6186552 has duplicate jobs and has more than 24 for the job but we only have 14 parts.
+
+image
+
+ 
+Begin Reference, Job 6186552 has duplicate ... by Mansperger, Rob
+Mansperger, Rob
+9/5 5:38 AM
+Poly6 Floor29/5/2025 5:23 AM
+Job 6186552 has duplicate jobs and has more than 24 for the job but we only have 14 parts. 📷
+
+6186552 is good to move 
+
+image
+image Artifact scan #1 by Poly6 Floor2
+Poly6 Floor2
+9/7 7:34 PM
+
+image
+
+Artifact scan #1
+image Artifact scan #2 by Poly6 Floor2
+Poly6 Floor2
+9/7 7:50 PM
+
+image
+
+Artifact scan #2
+KAM is availe for production use again by Anderson, Nick
+Anderson, Nick
+9/8 10:43 AM
+
+KAM is availe for production use again
+Nick, can you look at this job and give us ... by Poly6 Floor2
+Poly6 Floor2
+9/9 6:15 AM
+
+Nick, can you look at this job and give us guidance?
+
+image
+On it by Anderson, Nick
+Anderson, Nick
+9/9 6:21 AM
+
+On it
+Something was off with that scan. I sent it... by Anderson, Nick
+Anderson, Nick
+9/9 9:28 AM
+
+Something was off with that scan. I sent it back to be re-scanned
+Nick, by Poly6 Floor2
+Poly6 Floor2
+9/10 10:04 AM
+
+Nick,
+Can you look at this job? image by Poly6 Floor2
+Poly6 Floor2
+9/10 10:04 AM
+
+Can you look at this job?
+
+image
+Artifact fail, curious why we were doing an... by Pashayan, Jack
+9/10 3:32 PM
+Pashayan, Jack
+
+Artifact fail, curious why we were doing an Ad Hoc artifact scan this afternoon
+
+image
+to manage temp changes in the lab, i think by O'Riordan, Brian
+O'Riordan, Brian
+9/10 3:32 PM
+
+to manage temp changes in the lab, i think
+With the temperature being out of spec in t... by Sirbak, Brian
+Sirbak, Brian
+9/10 3:34 PM
+With the temperature being out of spec in the print lab, it was affecting the CT machine. Nick mentioned before we start scanning we should run an artifact scanned to ensure it passes before we had to keep re-scanning parts.
+that makes sense, thank you for the reminde by Pashayan, Jack
+9/10 3:46 PM
+Pashayan, Jack
+
+that makes sense, thank you for the reminder
+Are we running artifact scans before doing ... by Poly6 Floor2
+Poly6 Floor2
+9/10 6:58 PM
+
+Are we running artifact scans before doing any CT scans tonight? -Chris
+Yes by Chan, Jimmy
+Chan, Jimmy
+9/10 6:58 PM
+Yes
+You should wait for it to pass before scann... by Sirbak, Brian
+Sirbak, Brian
+9/10 6:59 PM
+You should wait for it to pass before scanning.
+Both artifact scan passed that were in the ... by Poly6 Floor2
+Poly6 Floor2
+9/10 11:52 PM
+
+Both artifact scan passed that were in the re-batch from earlier, but it is not showing up in the queue. So we are doing an ADHOC scan
+image by Poly6 Floor2
+Poly6 Floor2
+9/10 11:52 PM
+
+image
+If we should not proceed, please let us kno... by Poly6 Floor2
+Poly6 Floor2
+9/10 11:57 PM
+
+If we should not proceed, please let us know ASAP!!!
+Can someone look at this job?  It seems to ... by Poly6 Floor2
+Poly6 Floor2
+9/12 9:57 AM
+
+Can someone look at this job?  It seems to be stuck.
+
+image
+image Artifact scan #1 by Poly6 Floor2
+Poly6 Floor2
+9/14 7:33 PM
+
+image
+
+Artifact scan #1
+image Artifact scan #2 by Poly6 Floor2
+Poly6 Floor2
+9/14 8:25 PM
+
+image
+
+Artifact scan #2
+Ward, Peter added Leone, Benjamin to the chat and shared all chat history.
+Ward, Peter removed Unknown User from the chat.
+Ward, Peter removed Unknown User from the chat.
+Job 6207583 is stuck at Re-Batch for Quara... by Leone, Benjamin, has an attachment.
+Leone, Benjamin
+9/15 7:57 AM
+
+Job 6207583 is stuck at Re-Batch for Quarantined Parts, All Scans: 
+
+Anderson,
+ Nick
+ Can you help us get this job out of Re-batch?
+and job 6207590 has the same issue    What ... by Leone, Benjamin, has an attachment.
+Leone, Benjamin
+9/15 8:03 AM
+
+and job 6207590 has the same issue 
+
+ 
+
+What does a green smile with "unknown" represent 
+
+ 
+Pashayan,   Jack , can you answer to the 'U... by Anderson, Nick
+Anderson, Nick
+9/15 8:19 AM
+
+Pashayan,
+ Jack
+, can you answer to the 'Unknown' status?
+Begin Reference, Job 6207583 is stuck at Re... by Pashayan, Jack
+9/15 8:29 AM
+Pashayan, Jack
+Leone, Benjamin9/15/2025 7:57 AM
+Job 6207583 is stuck at Re-Batch for Quarantined Parts, All Scans: Anderson, Nick Can you help us get this job out of Re-batch? 📄 Screenshot 2025-09-15 10.55.43 AM.png
+
+The reason for this error is because we recently started catching errors in scans even when they occur for parts outside of the selected job. In this case, the error was for a part in scan 31344 that had Resolution = "Unknown"
+And for JOB 6207590, it's the same thing ex... by Pashayan, Jack
+9/15 8:34 AM
+Pashayan, Jack
+
+And for JOB 6207590, it's the same thing except I guess it resolved to "Unknown" for 7 parts in that job. I hope I am understanding this right, Nick
+Quarantined Parts, All Scans:   1 I know th... by Pashayan, Jack
+9/15 8:35 AM
+Pashayan, Jack
+
+    Quarantined Parts, All Scans:   1
+
+I know this is not super clear yet, sorry about that. The goal is to prevent jobs to have to be moved back to CT, which is even more awkward
+I would imagine these jobs should be rescan... by Pashayan, Jack
+9/15 8:37 AM
+Pashayan, Jack
+
+I would imagine these jobs should be rescanned, which I can help with. What do you think Nick?
+I will need to look into the specfic parts.... by Anderson, Nick
+Anderson, Nick
+9/15 9:31 AM
+
+I will need to look into the specfic parts. I can have that done by EOD but I have a lot of priorities today since I'll be out for the next two weeks
+image Artifact scan AD-HOC by Poly6 Floor2
+Poly6 Floor2
+9/15 8:53 PM
+
+image
+
+Artifact scan AD-HOC
+Why are we seeing 1 part to scrap but when ... by Poly6 Floor2
+Poly6 Floor2
+9/16 7:27 AM
+
+Why are we seeing 1 part to scrap but when we go to scrap out it has many other parts selected to be scrapped?
+
+image
+
+ 
+
+image
+Jobs 6207583  6204373 6204372  6203561  620... by Poly6 Floor2
+Poly6 Floor2
+9/16 10:40 AM
+
+Jobs 6207583 
+
+6204373
+
+6204372 
+
+6203561 
+
+6200102
+
+6197359 
+
+ 
+
+are stuck in re-batch due to :
+
+Quarantined Parts, All Scans:   1
+
+ 
+
+Do we have to re-do scan data for the whole job?
+Pashayan,   Jack : I think the above questi... by Sherman, Jeff
+Sherman, Jeff
+9/16 10:43 AM
+
+Pashayan,
+ Jack
+: I think the above questions regarding UI for scrap are for you. Can you address this?
+Yes, I was waiting for Nick to weigh in by ... by Pashayan, Jack
+9/16 10:44 AM
+Pashayan, Jack
+
+Yes, I was waiting for Nick to weigh in by EOD yesterday. I can initiate "Rescan" for those parts
+But I have to see if it is the same issue f... by Pashayan, Jack
+9/16 10:45 AM
+Pashayan, Jack
+
+But I have to see if it is the same issue for all these jobs first
+As to your point Jeff, i am checking that n... by Pashayan, Jack
+9/16 10:46 AM
+Pashayan, Jack
+
+As to your point Jeff, i am checking that now
+Our latest update seems to be a little over... by Pashayan, Jack
+9/16 11:15 AM
+Pashayan, Jack
+
+Our latest update seems to be a little overzealous in holding back jobs, which is not a bad thing, but I am updating Cores Hub so that this one small issue does not hold back jobs unnecessarily
+Make sure you update to Cores Hub v2.40.1 p... by Pashayan, Jack
+9/16 11:16 AM
+Pashayan, Jack
+
+Make sure you update to Cores Hub v2.40.1 please
+There are some jobs however that are correc... by Pashayan, Jack
+9/16 11:17 AM
+Pashayan, Jack
+
+There are some jobs however that are correctly held up, like this one, and I will bump back the 2 parts to "ReScan" so that it goes through
+
+image
+I will give you a list of the quarantined p... by Pashayan, Jack
+9/16 11:17 AM
+Pashayan, Jack
+
+I will give you a list of the quarantined parts that I wil be moving back
+  JOB PART     6204373 41322-647B 6204373 4... by Pashayan, Jack
+9/16 11:23 AM
+Pashayan, Jack
+
+ 
+JOB	PART
+ 	 
+6204373	41322-647B
+6204373	41324-649B
+ 	 
+6200102	40723-026A
+6200102	40723-026B
+6200102	40724-027C
+6200102	40725-033B
+6200102	40725-033C
+6200102	40726-075E
+
+ 
+Let me know if you have any issues rescanni... by Pashayan, Jack
+9/16 11:27 AM
+Pashayan, Jack
+
+Let me know if you have any issues rescanning those pars
+I am also sending back this job:   JOB PART... by Pashayan, Jack
+9/16 1:01 PM
+Pashayan, Jack
+
+I am also sending back this job:
+
+ 
+JOB	PART
+6197359	39352-006D
+6197359	39352-006E
+6197359	39353-008A
+6197359	39353-008B
+6197359	39353-008C
+6197359	39353-008F
+6197359	39354-009A
+6197359	39354-009C
+6197359	39354-009E
+6197359	39354-009F
+6197359	39355-010A
+6197359	39355-010B
+6197359	39355-010C
+6197359	39355-010D
+6197359	39355-010E
+
+ 
+image Artifact scan AD Hoc by Poly6 Floor2
+Poly6 Floor2
+9/16 8:14 PM
+
+image
+
+Artifact scan AD Hoc
+Sehr gut by Anderson, Nick
+Anderson, Nick
+9/16 8:24 PM
+
+Sehr gut
+We started scanning the parts that came to ... by Ward, Peter
+Ward, Peter
+9/17 10:56 AM
+
+We started scanning the parts that came to us from Cleveland, but processing them seems to be very slow or not happening. Can we please confirm that they are in fact processing?
+These are the scans that I see so far today... by Sherman, Jeff
+Sherman, Jeff
+9/17 11:01 AM
+
+These are the scans that I see so far today. 3 of them do not match our naming convention. The "SR" is supposed to be capitalized but on these 3 scans it is lower case. I suspect that this is preventing these from processing. The others seem to be processing normally. I will monitor.
+
+image
+Begin Reference, These are the scans that I... by Pashayan, Jack
+9/17 11:03 AM
+Pashayan, Jack
+Sherman, Jeff9/17/2025 11:01 AM
+These are the scans that I see so far today. 3 of them do not match our naming convention. The "SR" is supposed to be capitalized but on these 3 scans it is lower case. I suspect that this is preventing these from processing. The others seem to be processing normally. I will monitor. 📷
+
+Could this have come from a MainLoop module change? I'm not sure how else those directories would get named
+Nope. This is operator input by Sherman, Jeff
+Sherman, Jeff
+9/17 11:03 AM
+
+Nope. This is operator input
+I just let the operators know that that SR ... by Ward, Peter
+Ward, Peter
+9/17 11:07 AM
+
+I just let the operators know that that SR has to be capitalized. If they need to be rescanned can we have them pucshed back into the scanning queue?
+Not sure yet if they need to be rescanned. ... by Sherman, Jeff
+Sherman, Jeff
+9/17 11:08 AM
+
+Not sure yet if they need to be rescanned. I'm trying to fix it on the back end right now
+It has been a few hours since we have scan ... by Yang, Sunny
+Yang, Sunny
+9/18 7:00 AM
+
+It has been a few hours since we have scan both artifact and it has not finish processing yet. Should operators keep processing jobs through even though theirs a chance that the artifact might fail and we have to rescan again
+Peter was heading over to look.  I don't wa... by Sirbak, Brian
+Sirbak, Brian
+9/18 7:14 AM
+
+Peter was heading over to look.  I don't want to keep going until we know it is passed.  Where we had an AC unit not working fully the temp could be part of the issue.  
+they still havent passed yet by Ward, Peter
+Ward, Peter
+9/18 7:19 AM
+
+they still havent passed yet
+Sherman,   Jeff  can you see if things are ... by Ward, Peter
+Ward, Peter
+9/18 7:19 AM
+
+Sherman,
+ Jeff
+ can you see if things are processing?
+The problem is that someone again ran a sca... by Sherman, Jeff
+Sherman, Jeff
+9/18 7:25 AM
+
+The problem is that someone again ran a scan with the "SR" entered as lower case. This crashes the software and nothing has processed since that time.
+
+image
+So please, stop entering these as lower cas... by Sherman, Jeff
+Sherman, Jeff
+9/18 7:26 AM
+
+So please, stop entering these as lower case. If you scan the barcode on the computer monitor this should never happen. Is something that not working correctly that is causing people to enter manually?
+From what I saw cap lock is on on the keybo... by Ward, Peter
+Ward, Peter
+9/18 7:28 AM
+
+From what I saw cap lock is on on the keyboard so when they scan the barcode the SR goes in as lower case
+Got it. Well, please stop doing that. by Sherman, Jeff
+Sherman, Jeff
+9/18 7:28 AM
+
+Got it. Well, please stop doing that.
+We can fix this to make it robust to this t... by Sherman, Jeff
+Sherman, Jeff
+9/18 7:29 AM
+
+We can fix this to make it robust to this type of error but that isn't going to happen until Nick gets back.
+When Nick is back we will add code to preve... by Pashayan, Jack
+9/18 7:29 AM
+Pashayan, Jack
+
+When Nick is back we will add code to prevent that. But yes in the meantime being extra careful is required
+I fixed the misnamed scan records and the s... by Sherman, Jeff
+Sherman, Jeff
+9/18 7:33 AM
+
+I fixed the misnamed scan records and the software is now processing again. I have confirmed that the artefact scans from this morning have been picked up in the queue. It will still take some time for them to process but at least they are now moving.
+Both artifact scans are showing they passed... by Sirbak, Brian
+Sirbak, Brian
+9/18 8:14 AM
+
+Both artifact scans are showing they passed.
+
+image
+Fantastic! by Pashayan, Jack
+9/18 8:16 AM
+Pashayan, Jack
+
+Fantastic!
+Jeff is working on the parts that are still... by Poly6 Floor2
+Poly6 Floor2
+9/19 5:20 AM
+
+Jeff is working on the parts that are still processing/quarantined.
+Rob why do i see duplicate part number on t... by Poly6 Floor2
+Poly6 Floor2
+9/19 12:24 PM
+
+Rob why do i see duplicate part number on this job 6215433? 43918-606A?
+Where are you seeing this? by Pashayan, Jack
+9/19 12:30 PM
+Pashayan, Jack
+
+Where are you seeing this?
+Rob just fixed it  by Poly6 Floor2
+Poly6 Floor2
+9/19 12:30 PM
+
+Rob just fixed it 
+it was at die sort in dies hub. print lab  by Poly6 Floor2
+Poly6 Floor2
+9/19 12:30 PM
+
+it was at die sort in dies hub. print lab 
+it was an earlier duplicate that someone tr... by Mansperger, Rob
+Mansperger, Rob
+9/19 12:31 PM
+
+it was an earlier duplicate that someone tried to fix by scrapping. all squared away now
+I can see that now, thank you by Pashayan, Jack
+9/19 12:31 PM
+Pashayan, Jack
+
+I can see that now, thank you
+these job numbers are back on the "incoming... by O'Riordan, Brian
+O'Riordan, Brian
+9/20 2:23 PM
+
+these job numbers are back on the "incoming to final CT" rack to be rescanned
+
+ 
+
+ 
+Job numbers
+6171907
+6177931
+6183067
+6186627
+6190045
+6193258
+6193259
+6193294
+6197266
+6197270
+6197300
+6197311
+6204050
+6204072
+6204073
+6207536
+6189985
+6207534
+
+ 
+In case it hasn't been fully communicated t... by Sherman, Jeff
+Sherman, Jeff
+9/20 2:48 PM
+
+In case it hasn't been fully communicated to everyone: the reason these jobs had to be sent back is that parts were touching each other in scans that included parts from all of these jobs. When parts are touching each other, even by the most tiny amount, the CT scanner is completely unable to distinguish one part from another and the entire scan is compromised. Please, take all the time you need to be absolutely sure that no parts are touching. Double check the parts after placing the fixture in the machine; sometimes parts can shift around while you are moving them into the machine.
+Typically the area where parts are touching... by Sherman, Jeff
+Sherman, Jeff
+9/20 2:49 PM
+
+Typically the area where parts are touching each other is near the root and legs. Be sure that the root is fully inserted into the slot in the fixture base.
+This is a fundamental limit of CT technolog... by Sherman, Jeff
+Sherman, Jeff
+9/20 2:51 PM
+
+This is a fundamental limit of CT technology. There is no way for us to engineer around this. We will do everything we can to error proof this process as we move forward but this is one type of error that we can not proof against.
+Thanks Jeff by Wittman, Tamara
+Wittman, Tamara
+9/20 2:52 PM
+Thanks Jeff
+Thanks Jeff by O'Riordan, Brian
+O'Riordan, Brian
+9/20 2:59 PM
+Thanks Jeff
+Very helpful reminder by Pashayan, Jack
+9/20 3:00 PM
+Pashayan, Jack
+Very helpful reminder
+image the x-ray display (PiXS_CT) went blan... by Poly6 Floor2
+Poly6 Floor2
+9/21 9:56 PM
+
+image
+
+the x-ray display (PiXS_CT) went blank...should I continue to scan?
+image Homing the system now since we had to... by Poly6 Floor2
+Poly6 Floor2
+9/21 10:17 PM
+
+image
+
+Homing the system now since we had to restart the KAM
+image This is what I am seeing at the momen by Poly6 Floor2
+Poly6 Floor2
+9/21 10:27 PM
+
+image
+
+This is what I am seeing at the moment
+Start over. Do you make sure you trim the k... by Sirbak, Brian
+Sirbak, Brian
+9/21 10:29 PM
+Start over. Do you make sure you trim the keys for 15 seconds?
+I did the whole process since I had an erro... by Poly6 Floor2
+Poly6 Floor2
+9/21 10:29 PM
+
+I did the whole process since I had an error during that scan
+We will need to wait for Jeff or Jack to lo... by Sirbak, Brian
+Sirbak, Brian
+9/21 10:31 PM
+We will need to wait for Jeff or Jack to look at the error message.
+I even turned the filament to make sure the... by Poly6 Floor2
+Poly6 Floor2
+9/21 10:31 PM
+
+I even turned the filament to make sure there was a good spot on the it to scan
+I'll try to reboot the system again by Poly6 Floor2
+Poly6 Floor2
+9/21 10:31 PM
+
+I'll try to reboot the system again
+image by Poly6 Floor2
+Poly6 Floor2
+9/21 11:07 PM
+
+image
+image by Poly6 Floor2
+Poly6 Floor2
+9/21 11:09 PM
+
+image
+Is there a reason why we have masking tape ... by Poly6 Floor2
+Poly6 Floor2
+9/21 11:10 PM
+
+Is there a reason why we have masking tape covering the filament for KAM?
+The filament is broken. Machine is down unt... by Sherman, Jeff
+Sherman, Jeff
+9/22 2:51 AM
+The filament is broken. Machine is down until it is replaced.
+It like a lightbulb: when it burns out noth... by Sherman, Jeff
+Sherman, Jeff
+9/22 2:52 AM
+It like a lightbulb: when it burns out nothing to do about it other than to replace it.
+Hey Jeff, if the filament is broken, could ... by Poly6 Floor2
+Poly6 Floor2
+9/22 2:53 AM
+
+Hey Jeff, if the filament is broken, could we in the future let us know that we are not able to CT scan anything. We were able to scan some trays last night but I guess it broke mid scan
+I don’t understand the ask. It broke in the... by Sherman, Jeff
+Sherman, Jeff
+9/22 2:55 AM
+I don’t understand the ask. It broke in the middle of your scan last night while I was asleep. I responded to you immediately after I woke up and saw the problem had occurred.
+thank you Jeff by Poly6 Floor2
+Poly6 Floor2
+9/22 2:56 AM
+
+thank you Jeff
+When can we expect the filament be replace ... by Sirbak, Brian
+Sirbak, Brian
+9/22 10:49 AM
+
+When can we expect the filament be replace and release back to production?
+
+2nd part what are we doing with the jobs that are still hung up for 1-2 parts quarantined or still processing?
+Thanks,
+I haven't even been able to make it to the ... by Sherman, Jeff
+Sherman, Jeff
+9/22 10:49 AM
+
+I haven't even been able to make it to the floor yet today. No chance this will be back sooner than 5:00.
+I have never done this task before so can't... by Sherman, Jeff
+Sherman, Jeff
+9/22 10:50 AM
+
+I have never done this task before so can't give any specific time frame
+Sorry. Wish I could give better news. by Sherman, Jeff
+Sherman, Jeff
+9/22 10:50 AM
+
+Sorry. Wish I could give better news.
+Nick trained Pete and me a while ago by Gaudioso, Michael
+Gaudioso, Michael
+9/22 10:50 AM
+Nick trained Pete and me a while ago
+Also I think he’s trained soto by Gaudioso, Michael
+Gaudioso, Michael
+9/22 10:50 AM
+Also I think he’s trained soto
+All of whom are not here. by Sherman, Jeff
+Sherman, Jeff
+9/22 10:50 AM
+
+All of whom are not here.
+Pete and Soto are OoO by Wittman, Tamara
+Wittman, Tamara
+9/22 10:50 AM
+
+Pete and Soto are OoO
+I am going to fumble through this by readin... by Sherman, Jeff
+Sherman, Jeff
+9/22 10:51 AM
+
+I am going to fumble through this by reading the SOP.
+Thank you Jeff by Sirbak, Brian
+Sirbak, Brian
+9/22 10:53 AM
+
+Thanks Jeff. As discussed reach out if you ... by O'Riordan, Brian
+O'Riordan, Brian
+9/22 10:57 AM
+Thanks Jeff. As discussed reach out if you need a set of hands
+Hoping to get some good news about the scan... by Wittman, Tamara
+Wittman, Tamara
+9/22 4:56 PM
+Hoping to get some good news about the scanner
+If you consider me standing in front of it ... by Sherman, Jeff
+Sherman, Jeff
+9/22 4:57 PM
+If you consider me standing in front of it after a 12 hr day with an hour drive still in front of me then, yes, it’s going great!👍🏻
+No problems. Just a very long process by Sherman, Jeff
+Sherman, Jeff
+9/22 4:58 PM
+No problems. Just a very long process
+Your hard work is truly appreciated. Thank ... by Sirbak, Brian
+Sirbak, Brian
+9/22 5:18 PM
+Your hard work is truly appreciated. Thank you
+Thanks a ton Jeff, truly appreciate it by Surendranath, Arun
+Surendranath, Arun
+9/22 5:20 PM
+
+Thanks a ton Jeff, truly appreciate it
+CT is back up. Artefact scan is running now... by Sherman, Jeff
+Sherman, Jeff
+9/22 6:51 PM
+CT is back up. Artefact scan is running now. Please proceed with normal operation once the artefact is done.
+Great work Jeff by Pashayan, Jack
+9/22 6:51 PM
+Pashayan, Jack
+
+Great work Jeff
+Begin Reference, CT is back up. Artefact sc... by Gaudioso, Michael
+Gaudioso, Michael
+9/22 6:52 PM
+
+Sherman, Jeff9/22/2025 6:51 PM
+CT is back up. Artefact scan is running now. Please proceed with normal operation once the artefact is done.
+Hero
+Begin Reference, CT is back up. Artefact sc... by O'Riordan, Brian
+O'Riordan, Brian
+9/22 7:00 PM
+
+Sherman, Jeff9/22/2025 6:51 PM
+CT is back up. Artefact scan is running now. Please proceed with normal operation once the artefact is done.
+Thank you Jeff!
+Scans are not Processing again It could be ... by Poly6 Floor2
+Poly6 Floor2
+9/24 4:54 AM
+
+Scans are not Processing again
+
+It could be someone again ran a scan with the "SR" entered as lower case. 
+I’ll take a look when I get in in about 1.5... by Sherman, Jeff
+Sherman, Jeff
+9/24 4:58 AM
+I’ll take a look when I get in in about 1.5hrs. I’m driving now.
+image by Sherman, Jeff
+Sherman, Jeff
+9/24 8:11 AM
+
+image
+It running again now but unfortunately this... by Sherman, Jeff
+Sherman, Jeff
+9/24 8:18 AM
+
+It running again now but unfortunately this has been down since 7:05pm last night when the first of these lower case sr's was entered. Its going to take some time to catch back up.
+I believe the root cause of this is use of ... by Sherman, Jeff
+Sherman, Jeff
+9/24 8:19 AM
+
+I believe the root cause of this is use of the caps lock key and then forgetting to unlock it. Jack is going to physically remove the caps lock key from the keyboard as a reminder not to use that function. Please, use shift!
+ Thanks Jeff by Leone, Benjamin
+Leone, Benjamin
+9/24 8:27 AM
+
+ Thanks Jeff
+AH, i wanted to do that last week.   wish i... by O'Riordan, Brian
+O'Riordan, Brian
+9/24 8:35 AM
+
+AH, i wanted to do that last week.   wish i had...
+thanks again Jeff. by O'Riordan, Brian
+O'Riordan, Brian
+9/24 8:36 AM
+
+thanks again Jeff.
+image by Poly6 Floor2
+Poly6 Floor2
+9/25 6:26 AM
+
+image
+The QTY on this job is off. Their is only 1... by Poly6 Floor2
+Poly6 Floor2
+9/25 6:27 AM
+
+The QTY on this job is off. Their is only 12 physical cores on the foam trays
+can we adjust the QTY so we can move the jo... by Poly6 Floor2
+Poly6 Floor2
+9/25 6:28 AM
+
+can we adjust the QTY so we can move the job to final visual 
+If the remaining cores are not on the tray,... by Pashayan, Jack
+9/25 6:29 AM
+Pashayan, Jack
+
+If the remaining cores are not on the tray, can you check the traveler if they were scrapped?
+image by Poly6 Floor2
+Poly6 Floor2
+9/25 6:33 AM
+
+image
+i believe their dulpicates by Poly6 Floor2
+Poly6 Floor2
+9/25 6:33 AM
+
+i believe their dulpicates
+i check the profile at ct to see if their i... by Poly6 Floor2
+Poly6 Floor2
+9/25 6:34 AM
+
+i check the profile at ct to see if their is a core that still needs to be scan in the ct scan record and its seems to show more cores from this job 6193302
+I will check it out by Pashayan, Jack
+9/25 6:39 AM
+Pashayan, Jack
+
+I will check it out
+Weird, it's not showing that for me. Can yo... by Pashayan, Jack
+9/25 6:43 AM
+Pashayan, Jack
+
+Weird, it's not showing that for me. Can you try refreshing?
+I just fixed this. Pashayan,   Jack  there... by Mansperger, Rob
+Mansperger, Rob
+9/25 6:43 AM
+
+I just fixed this. Pashayan,
+ Jack
+ there were duplicates in Cores2.Dimensional.Master, all with NULL run numbers
+I see, thanks ROb by Pashayan, Jack
+9/25 6:44 AM
+Pashayan, Jack
+
+I see, thanks ROb
+If anyone can reply back ASAP about AD Hoc ... by Poly6 Floor2
+Poly6 Floor2
+9/25 9:06 PM
+
+If anyone can reply back ASAP about AD Hoc scan for CT finals, what is the "Process State" and "Automation profile"?
+Not sure what you are trying to do with adh... by Sherman, Jeff
+Sherman, Jeff
+9/26 12:31 AM
+
+Not sure what you are trying to do with adhoc scans. Ad hoc scans don't "count". The data acquired through an adhoc scan can not be used for product acceptance. If a part needs to be rescanned for some reason it needs to be moved back to the CT operation in Cores Hub by Jack or Rob.
+Hi Folks, priority parts for scanning are h... by O'Riordan, Brian
+O'Riordan, Brian
+9/26 2:07 PM
+
+Hi Folks, priority parts for scanning are here... 
+
+image
+after that, 1023s.  There is also a full ra... by O'Riordan, Brian
+O'Riordan, Brian
+9/26 2:08 PM
+
+after that, 1023s.  There is also a full rack of GS scans to do
+FYI, there are a majority of jobs that we a... by Poly6 Floor2
+Poly6 Floor2
+9/29 1:38 AM
+
+FYI, there are a majority of jobs that we are not able to push through Oracle (we don't know why), but, we are still going to push them through Cores Hub for the next step unless told otherwise
+image by Poly6 Floor2
+Poly6 Floor2
+9/29 3:52 AM
+
+image
+Begin Reference, FYI, there are a majority ... by Wittman, Tamara
+Wittman, Tamara
+9/29 3:55 AM
+
+Poly6 Floor29/29/2025 1:38 AM
+FYI, there are a majority of jobs that we are not able to push through Oracle (we don't know why), but, we are still going to push them through Cores Hub for the next step unless told otherwise
+Can you please provide job numbers so I can troubleshoot
+their seems to be duplicates for this job. ... by Poly6 Floor2
+Poly6 Floor2
+9/29 3:56 AM
+
+their seems to be duplicates for this job. Their should only be 12 cores. Please make adjustment so we can move this job to QC 
+i see positives at final ct scan. I'm not s... by Poly6 Floor2, has an attachment.
+Poly6 Floor2
+9/29 11:59 AM
+
+i see positives at final ct scan. I'm not sure if it will throw off the dimensions when scsnning
+Please check in with Smita if you feel like... by Sherman, Jeff
+Sherman, Jeff
+9/29 12:06 PM
+Please check in with Smita if you feel like something has been missed at patch/finish.
+the view for the artifact scan is way zoome... by Poly6 Floor2, has an attachment.
+Poly6 Floor2
+10/1 4:29 AM
+
+the view for the artifact scan is way zoomed in   How we do fix it?
+That last artefact scan is definitely not r... by Sherman, Jeff
+Sherman, Jeff
+10/1 4:47 AM
+
+That last artefact scan is definitely not right. I'm not sure what the problem is. I belive Nick is back today so hopefully he will respond soon. If he doesn't respond I'll check it out around 9:30 when I get in.
+You could try to repeat the shutdown/homing... by Sherman, Jeff
+Sherman, Jeff
+10/1 4:48 AM
+
+You could try to repeat the shutdown/homing/scan process to see if it clears the next time through. That is the first thing I would try.
+Omw into the office now. I'll take a look a... by Anderson, Nick
+Anderson, Nick
+10/1 4:51 AM
+
+Omw into the office now. I'll take a look at this first thing.
+image by Poly6 Floor2
+Poly6 Floor2
+10/1 5:11 AM
+
+image
+it zoomed ou by Poly6 Floor2
+Poly6 Floor2
+10/1 5:11 AM
+
+it zoomed ou
+out by Poly6 Floor2
+Poly6 Floor2
+10/1 5:11 AM
+
+out
+looks good by Poly6 Floor2
+Poly6 Floor2
+10/1 5:11 AM
+
+looks good
+251001_SR32712 this is the ad hoc for the 2... by Poly6 Floor2
+Poly6 Floor2
+10/1 5:12 AM
+
+251001_SR32712 this is the ad hoc for the 2nd artifact scan 
+some jobs are taking all day to process at ... by Poly6 Floor2
+Poly6 Floor2
+10/1 10:54 AM
+
+some jobs are taking all day to process at rebatch
+I can confirm that parts are processing by Pashayan, Jack
+10/1 11:22 AM
+Pashayan, Jack
+
+I can confirm that parts are processing
+Looking into it now by Anderson, Nick
+Anderson, Nick
+10/1 11:25 AM
+
+Looking into it now
+hello by Poly6 Floor2
+Poly6 Floor2
+10/2 8:58 AM
+
+hello
+Hi by Anderson, Nick
+Anderson, Nick
+10/2 8:59 AM
+
+Hi
+can we 1028 dummies for 1037 fire ct scan?? by Poly6 Floor2
+Poly6 Floor2
+10/2 8:59 AM
+
+can we 1028 dummies for 1037 fire ct scan??
+can we use by Poly6 Floor2
+Poly6 Floor2
+10/2 8:59 AM
+
+can we use
+I don't think they will fit in the fixture.... by Anderson, Nick
+Anderson, Nick
+10/2 9:01 AM
+
+I don't think they will fit in the fixture. Do we not have any 1037 dummies?
+I take that back, I forgot we are using the... by Anderson, Nick
+Anderson, Nick
+10/2 9:05 AM
+
+I take that back, I forgot we are using the same fixture now for both. Use 1037's if you have them and if not use 1028's and send me the scan number so I can make sure it didnt cause any issues.
+There are a few jobs that have Quarantined ... by Poly6 Floor2
+Poly6 Floor2
+10/3 9:44 AM
+
+There are a few jobs that have Quarantined parts in Re-Batch  
+
+6203993
+
+6197359
+
+6197357
+
+6197356
+
+6194572
+
+6194571 
+
+ 
+
+job 6211134 has "Analysis Not Done" tag
+Mansperger, Rob added Moua, Hue to the chat and shared all chat history.
+image Artifact Sunday night 10/05/2025 by Poly6 Floor2
+Poly6 Floor2
+10/5 7:31 PM
+
+image
+
+Artifact Sunday night 10/05/2025
+image by Poly6 Floor2
+Poly6 Floor2
+10/6 4:49 PM
+
+image
+I will be doing another artifact scan by Poly6 Floor2
+Poly6 Floor2
+10/6 4:49 PM
+
+I will be doing another artifact scan
+Its very likely not going to pass. The lab ... by Sherman, Jeff
+Sherman, Jeff
+10/6 4:50 PM
+
+Its very likely not going to pass. The lab temperature was extremely high today and it is extremely unlikely that the CT will be back to temp and able to scan until late tomorrow, if even by then.
+Nick wants be to scan the artifact every 2h... by Poly6 Floor2
+Poly6 Floor2
+10/6 4:51 PM
+
+Nick wants be to scan the artifact every 2hrs.
+Sounds good. Just wanted to give you realis... by Sherman, Jeff
+Sherman, Jeff
+10/6 4:51 PM
+
+Sounds good. Just wanted to give you realistic expectations...
+image by Poly6 Floor2
+Poly6 Floor2
+10/6 6:10 PM
+
+image
+Nice by Anderson, Nick
+Anderson, Nick
+10/6 6:10 PM
+
+Nice
+I forgot to screen shot the Ct profile, but... by Poly6 Floor2
+Poly6 Floor2
+10/6 6:11 PM
+
+I forgot to screen shot the Ct profile, but it finally passed 
+Im going to flip the sign to "Ready to be u... by Poly6 Floor2
+Poly6 Floor2
+10/6 6:11 PM
+
+Im going to flip the sign to "Ready to be use"
+Please make sure 3rd knows to check every 2... by Sirbak, Brian
+Sirbak, Brian
+10/6 6:12 PM
+Please make sure 3rd knows to check every 2 hours as Nick instructed. Thanks,
+Brian, you want 3rd to run the aritfact eve... by Poly6 Floor2
+Poly6 Floor2
+10/6 6:14 PM
+
+Brian, you want 3rd to run the aritfact every 2hrs even though it passed ?
+Wasn’t that what Nick asked us to do? by Sirbak, Brian
+Sirbak, Brian
+10/6 6:15 PM
+Wasn’t that what Nick asked us to do?
+He did, but it finally passed  by Poly6 Floor2
+Poly6 Floor2
+10/6 6:15 PM
+
+He did, but it finally passed 
+I would still check every few hours. by Sirbak, Brian
+Sirbak, Brian
+10/6 6:16 PM
+I would still check every few hours.
+Okay, i'll forward on the msg and let 3rd s... by Poly6 Floor2
+Poly6 Floor2
+10/6 6:16 PM
+
+Okay, i'll forward on the msg and let 3rd shift know. 
+Unless Nick chimes in and says otherwise pl... by Sherman, Jeff
+Sherman, Jeff
+10/6 6:17 PM
+
+Unless Nick chimes in and says otherwise please continue to check every 2 hours.
+Okay by Poly6 Floor2
+Poly6 Floor2
+10/6 6:17 PM
+
+Okay
+image Artifact scan #1 10/06/2025 10:30PM by Poly6 Floor2
+Poly6 Floor2
+10/6 7:32 PM
+
+image
+
+Artifact scan #1 10/06/2025 10:30PM
+image AD Hoc scan 10/07/2025 01:13AM by Poly6 Floor2
+Poly6 Floor2
+10/6 10:13 PM
+
+image
+
+AD Hoc scan 10/07/2025 01:13AM
+How have the results been? by Sirbak, Brian
+Sirbak, Brian
+10/6 10:49 PM
+How have the results been?
+everything is looking good so far by Poly6 Floor2
+Poly6 Floor2
+10/6 10:58 PM
+
+everything is looking good so far
+image by Poly6 Floor2
+Poly6 Floor2
+10/6 10:59 PM
+
+image
+image by Poly6 Floor2
+Poly6 Floor2
+10/6 11:17 PM
+
+image
+Message by Poly6 Floor2, has an attachment.
+Poly6 Floor2
+10/7 4:56 AM
+PIXS crashed and CT computer Froze  by Leone, Benjamin
+Leone, Benjamin
+10/7 5:12 AM
+
+PIXS crashed and CT computer Froze 
+CT is down at this time.  Jeff or Nick can ... by Sirbak, Brian
+Sirbak, Brian
+10/7 5:17 AM
+
+CT is down at this time.  Jeff or Nick can you please help with this?
+Have you restarted the computer? by Sherman, Jeff
+Sherman, Jeff
+10/7 5:18 AM
+Have you restarted the computer?
+ First time it happened to me   Computer is... by Leone, Benjamin
+Leone, Benjamin
+10/7 5:48 AM
+
+ First time it happened to me   Computer is restarted and PiXS is running  Running an aritfact scan
+Thanks Ben.  Keep us updated if it passes o... by Sirbak, Brian
+Sirbak, Brian
+10/7 6:17 AM
+
+Thanks Ben.  Keep us updated if it passes or not.
+image Artifact scan 10/07/2025 10:25pm  by Poly6 Floor2
+Poly6 Floor2
+10/7 7:25 PM
+
+image
+
+Artifact scan 10/07/2025 10:25pm 
+image by Poly6 Floor2
+Poly6 Floor2
+10/7 8:11 PM
+
+image
+Are we good to go on scans??? by Poly6 Floor2
+Poly6 Floor2
+10/7 8:31 PM
+
+Are we good to go on scans???
+image by Poly6 Floor2
+Poly6 Floor2
+10/7 8:34 PM
+
+image
+Yes by Anderson, Nick
+Anderson, Nick
+10/7 8:39 PM
+
+Yes
+Does anyone know why this job is in cross s... by Poly6 Floor2
+Poly6 Floor2
+10/8 4:48 AM
+
+Does anyone know why this job is in cross site when it is at CT in P6B?
+
+image
+image by Poly6 Floor2
+Poly6 Floor2
+10/8 4:49 AM
+
+image
+image by Poly6 Floor2
+Poly6 Floor2
+10/8 4:50 AM
+
+image
+image by Poly6 Floor2
+Poly6 Floor2
+10/8 4:51 AM
+
+image
+image by Poly6 Floor2
+Poly6 Floor2
+10/8 4:52 AM
+
+image
+image by Poly6 Floor2
+Poly6 Floor2
+10/8 4:53 AM
+
+image
+KAM IS DOWN   KAM's chiller is not function... by Anderson, Nick
+Anderson, Nick
+10/8 1:55 PM
+
+KAM IS DOWN
+
+ 
+
+KAM's chiller is not functioning and a s a result he is running a fever. Untill we get the chiller back up and running we can not scan any more parts. I will update the chat as developments unfold.
+Hope "He" gets better soon. by Ajbani, Hemant
+Ajbani, Hemant
+10/8 2:01 PM
+
+Hope "He" gets better soon.
+Is KAM still down? by Wittman, Tamara
+Wittman, Tamara
+10/9 3:06 AM
+Is KAM still down?
+Yes by Sirbak, Brian
+Sirbak, Brian
+10/9 3:11 AM
+Yes
+Is there an ETA on release back to producti... by Wittman, Tamara
+Wittman, Tamara
+10/9 3:22 AM
+Is there an ETA on release back to production? Thursdays are typically important days to scan for shipping tomorrow.
+Sullivan is supposed to be sending someone ... by Sherman, Jeff
+Sherman, Jeff
+10/9 5:08 AM
+Sullivan is supposed to be sending someone over for service. If someone can lean on them a bit it might go faster.
+Chiller has been fixed according to Sulliva... by Poly6 Floor2
+Poly6 Floor2
+10/9 5:56 AM
+
+Chiller has been fixed according to Sullivan. How can we confirm temp is good so we can start scanning? 
+Run the artefact by Sherman, Jeff
+Sherman, Jeff
+10/9 5:56 AM
+
+Run the artefact
+Same process as always by Sherman, Jeff
+Sherman, Jeff
+10/9 5:56 AM
+
+Same process as always
+What was the problem? by Sherman, Jeff
+Sherman, Jeff
+10/9 5:56 AM
+
+What was the problem?
+Not really. It got turned on less than 15 m... by Poly6 Floor2
+Poly6 Floor2
+10/9 5:59 AM
+
+Not really. It got turned on less than 15 minute ago so we didn't know if it needed any start up time to cool down. should I use the new or old UI? Currently the new UI is running 
+The new UI is not production released. Plea... by Sherman, Jeff
+Sherman, Jeff
+10/9 6:00 AM
+
+The new UI is not production released. Please us the old.
+The chiller isn't intended to reduce the ca... by Sherman, Jeff
+Sherman, Jeff
+10/9 6:02 AM
+
+The chiller isn't intended to reduce the cabinet temperature below the temperature of the lab. It is just intended to keep the temperature in the cabinet constant and remove the additional heat that is released into the cabinet by the X-ray tube. So there should be no need for "cool down" period when it starts back up assuming the lab temperature has been holding in its expected range.
+The only way to know is to run the artefact... by Sherman, Jeff
+Sherman, Jeff
+10/9 6:03 AM
+
+The only way to know is to run the artefact. That is the test that tells us if the scanner is ready to go or not.
+Did anyone talk with the Sullivan tech to f... by Sherman, Jeff
+Sherman, Jeff
+10/9 6:03 AM
+
+Did anyone talk with the Sullivan tech to find out what the problem was?
+They said to have Soto call them  by Poly6 Floor2
+Poly6 Floor2
+10/9 6:05 AM
+
+They said to have Soto call them 
+The new UI deleted yesterdays post homing s... by Poly6 Floor2
+Poly6 Floor2
+10/9 7:04 AM
+
+The new UI deleted yesterdays post homing scan so the old UI had me do 3 artefact scans    Post-homing scan first which Failed  
+image Artifact scan #2 10:32PM 10/09/2025   by Poly6 Floor2
+Poly6 Floor2
+10/9 8:08 PM
+
+image
+
+Artifact scan #2 10:32PM 10/09/2025
+
+ 
+Can someone look at this job to see if we c... by Poly6 Floor2
+Poly6 Floor2
+10/10 5:50 AM
+
+Can someone look at this job to see if we can move?
+
+image
+THIS JOB CAN YOU MOVE CT TO  SORT by Hirani, Smita
+Hirani, Smita
+10/10 7:08 AM
+
+THIS JOB CAN YOU MOVE CT TO  SORT
+6215426 by Hirani, Smita
+Hirani, Smita
+10/10 7:08 AM
+
+6215426
+image Artifact scan #1 10:17PM 10/12/2025 by Poly6 Floor2
+Poly6 Floor2
+10/12 7:20 PM
+
+image
+
+Artifact scan #1 10:17PM 10/12/2025
+image Artifact scan #2 by Poly6 Floor2
+Poly6 Floor2
+10/12 8:06 PM
+
+image
+
+Artifact scan #2
+Can someone run an ad-hoc artifact scan. Th... by Anderson, Nick
+Anderson, Nick
+10/13 5:31 AM
+
+Can someone run an ad-hoc artifact scan. The CT Tech is here and we wanna close the bracket before he starts
+Is there a reason why we are not moving par... by Pashayan, Jack
+10/13 11:32 AM
+Pashayan, Jack
+
+Is there a reason why we are not moving parts out of CT Scan?
+CT is down by Wittman, Tamara
+Wittman, Tamara
+10/13 11:39 AM
+
+CT is down
+Should’ve clarified, I mean parts that alre... by Pashayan, Jack
+10/13 11:40 AM
+Pashayan, Jack
+Should’ve clarified, I mean parts that already have data
+Those are my parts Jack by Gaudioso, Michael
+Gaudioso, Michael
+10/13 11:40 AM
+Those are my parts Jack
+I'm seeing parts scanned by Brian Sirbak an... by Pashayan, Jack
+10/13 11:50 AM
+Pashayan, Jack
+
+I'm seeing parts scanned by Brian Sirbak and CHris Phay here in Burlington, with data
+But I can see you do have most of what I wa... by Pashayan, Jack
+10/13 11:51 AM
+Pashayan, Jack
+
+But I can see you do have most of what I was asking about, thank you Michael
+Im seeing that the detector is stuck on the... by Anderson, Nick
+Anderson, Nick
+10/14 11:14 AM
+
+Im seeing that the detector is stuck on the upper limit.
+You might need to reboot again to solve tha by Anderson, Nick
+Anderson, Nick
+10/14 11:14 AM
+
+You might need to reboot again to solve that
+Also try manually jogging the dector off th... by Anderson, Nick
+Anderson, Nick
+10/14 11:16 AM
+
+Also try manually jogging the dector off the limit before homing if it lets you
+You do that by clicking the button to the r... by Anderson, Nick
+Anderson, Nick
+10/14 11:16 AM
+
+You do that by clicking the button to the right of the display
+I think dark is up and light is down by Anderson, Nick
+Anderson, Nick
+10/14 11:16 AM
+
+I think dark is up and light is down
+its a stupid design by Anderson, Nick
+Anderson, Nick
+10/14 11:16 AM
+
+its a stupid design
+Thats the dark, click the light under it by Anderson, Nick
+Anderson, Nick
+10/14 11:17 AM
+
+Thats the dark, click the light under it
+It all looks like one button by Anderson, Nick
+Anderson, Nick
+10/14 11:17 AM
+
+It all looks like one button
+I can try it myself by Anderson, Nick
+Anderson, Nick
+10/14 11:17 AM
+
+I can try it myself
+Bugger by Anderson, Nick
+Anderson, Nick
+10/14 11:18 AM
+
+Bugger
+its also not homing  by Poly6 Floor2
+Poly6 Floor2
+10/14 11:18 AM
+
+its also not homing 
+Both Artifact scans have passed, feel free ... by Anderson, Nick
+Anderson, Nick
+10/14 1:42 PM
+
+Both Artifact scans have passed, feel free to start scanning. Someone please flip the sign back to green on KAM.
+image by Poly6 Floor2
+Poly6 Floor2
+10/15 7:57 PM
+
+image
+Nick, can you look at the artifact scans. T... by Sirbak, Brian
+Sirbak, Brian
+10/17 5:29 AM
+Nick, can you look at the artifact scans. They haven’t passed for a few hours still.
+Yupp just checked. ML was down for maintena... by Anderson, Nick
+Anderson, Nick
+10/17 5:31 AM
+
+Yupp just checked. ML was down for maintenance last night. I restarted it a little while ago and the scans are processing.
+Artifact scans have processed. Its taking l... by Anderson, Nick
+Anderson, Nick
+10/17 8:05 AM
+
+Artifact scans have processed. Its taking longer than usual for the data to upload to DCAP so I checked it myself and all three scans that were run today have passed
+Hey folks, CT scanning tonight... please pr... by O'Riordan, Brian
+O'Riordan, Brian
+10/19 1:31 PM
+
+Hey folks, CT scanning tonight... please prioritize the 6 post fire 1028 jobs left on the table across from CT.  There is a note on them.  These will be needed at patch in the morning.
+
+ 
+
+After that, please start burning down the final CT parts, 23s and 28s.
+
+ 
+
+Thanks!
+I have texted 3rd shift as they don’t alway... by Sirbak, Brian
+Sirbak, Brian
+10/19 1:49 PM
+I have texted 3rd shift as they don’t always see the chats.
+thanks by O'Riordan, Brian
+O'Riordan, Brian
+10/19 1:49 PM
+
+thanks
+Hi, for jobs 6225510 and 6225541, I scanned... by Poly6 Floor2
+Poly6 Floor2
+10/21 2:10 PM
+
+Hi, for jobs 6225510 and 6225541, I scanned them into the CT scanner and created the job file but i closed out of the job file by accident and now the parts are showing up red. Anyway we can fix this? Thank you.
+You can use the scan history to get what th... by Anderson, Nick
+Anderson, Nick
+10/21 2:16 PM
+
+You can use the scan history to get what the scan number is for the part you are refering too. You can find the scan history by clicking the apurture button in the top left of the home screen
+
+Bild
+
+ 
+
+Bild
+
+Assuming it was the last scan record created it should be SR33452, but please confirm the Part IDs for that scan match up with the parts you have loaded in the fixture.
+
+ 
+
+Since you wont be able to scan the 'Project Name' into the scanner UI please type '251021_SR33452' (without the quotes) and double check that you typed it correctly. A typo will cause the scan to not process and need to re rescanned later.
+Got It thank you. by Poly6 Floor2
+Poly6 Floor2
+10/21 2:34 PM
+
+Got It thank you.
+Nick, can you look at the jobs and see what... by Sirbak, Brian
+Sirbak, Brian
+10/22 4:12 AM
+
+Nick, can you look at the jobs and see what we can do to let them move again?
+
+image
+image by Sirbak, Brian
+Sirbak, Brian
+10/22 4:34 AM
+
+image
+image by Sirbak, Brian
+Sirbak, Brian
+10/22 4:43 AM
+
+image
+The part in 6225507 was flagged as a dummy.... by Anderson, Nick
+Anderson, Nick
+10/22 6:39 AM
+
+The part in 6225507 was flagged as a dummy. It looks like there was an error in the back-end creating the scan record. I will get Jack to correct it in the back end and then the part will process through.
+
+ 
+
+For the other 2 jobs, as I have said before, and especially if the part has not gone through sort yet, please verify that there aren't any giant holes in any parts that get quarantined. You can safely assume if the part looks like any in the pictures below that they will not process and can be scrapped.
+
+ 
+
+Bild
+
+Bild
+
+Bild
+hey nick by Poly6 Floor2
+Poly6 Floor2
+10/22 11:41 AM
+
+hey nick
+can you  by Poly6 Floor2
+Poly6 Floor2
+10/22 11:41 AM
+
+can you 
+can you check what profile was used for job... by Poly6 Floor2
+Poly6 Floor2
+10/22 11:41 AM
+
+can you check what profile was used for job 6238134
+we see a 1028 job that has a 1023 profile o... by Poly6 Floor2
+Poly6 Floor2
+10/22 11:43 AM
+
+we see a 1028 job that has a 1023 profile on the ct profile run 
+can we confirm if this was true  by Poly6 Floor2
+Poly6 Floor2
+10/22 11:43 AM
+
+can we confirm if this was true 
+if so can we reroute those scan for rescan by Poly6 Floor2
+Poly6 Floor2
+10/22 11:44 AM
+
+if so can we reroute those scan for rescan
+Where are you seeing that it has a 1023 pro... by Anderson, Nick
+Anderson, Nick
+10/22 11:44 AM
+
+Where are you seeing that it has a 1023 profile?
+I am seeing data for that job scanned as 10... by Anderson, Nick
+Anderson, Nick
+10/22 11:44 AM
+
+I am seeing data for that job scanned as 1028 GS
+' image by Poly6 Floor2
+Poly6 Floor2
+10/22 11:45 AM
+
+'
+
+image
+Bild The scan log shows that job was scanne... by Anderson, Nick
+Anderson, Nick
+10/22 11:47 AM
+
+Bild
+
+The scan log shows that job was scanned with 33503. 
+
+ 
+
+Bild
+
+And that scan is locate din the correct IPP folder. Im thinking the folder you have up just needs to be refreshed to see it
+ok by Poly6 Floor2
+Poly6 Floor2
+10/22 11:55 AM
+
+ok
+thanksa by Poly6 Floor2
+Poly6 Floor2
+10/22 11:55 AM
+
+thanksa
+No problem, glad you are staying vigilant. by Anderson, Nick
+Anderson, Nick
+10/22 12:11 PM
+
+No problem, glad you are staying vigilant.
+So I've tried to troubleshoot tis issue a f... by Poly6 Floor2
+Poly6 Floor2
+10/22 11:21 PM
+
+So I've tried to troubleshoot tis issue a few times, but it keeps failing. 
+
+imageimage
+
+it was working fine earlier, but the X-COM just started showing red errors
+
+ 
+Poly6 Floor2 added Merino, Marcial to the chat and shared chat history from the past day.
+Nick can you please look at jobs: image by Sirbak, Brian
+Sirbak, Brian
+10/23 5:18 AM
+
+Nick can you please look at jobs:
+
+image
+image by Sirbak, Brian
+Sirbak, Brian
+10/23 5:19 AM
+
+image
+Before I look into these, I see that these ... by Anderson, Nick
+Anderson, Nick
+10/23 8:18 AM
+
+Before I look into these, I see that these parts have not been sorted. Has anyone confirmed that these parts dont have massive voids?
+these are post fire ct scans per engineerin... by O'Riordan, Brian
+O'Riordan, Brian
+10/23 9:02 AM
+
+these are post fire ct scans per engineering trial, so no, no one has
+they are routed to go to PF sort after CT by O'Riordan, Brian
+O'Riordan, Brian
+10/23 9:03 AM
+
+they are routed to go to PF sort after CT
+In general, scans of parts not at final are... by Anderson, Nick
+Anderson, Nick
+10/23 9:27 AM
+
+In general, scans of parts not at final are not held up from moving for incomplete data. It's not a good use of time to look into parts from engineering trials that are quarantined since there are countless failure modes that can be introduced by the trial. If the engineer needs the data they can come to Metrology to get it later.
+sounds fine to me... what do we do to move ... by O'Riordan, Brian
+O'Riordan, Brian
+10/23 9:32 AM
+
+sounds fine to me... what do we do to move these jobs along?
+these are shippable trials btw, hense my in... by O'Riordan, Brian
+O'Riordan, Brian
+10/23 9:33 AM
+
+these are shippable trials btw, hense my interest in mvoing them
+The button is Cores Hub is green. Can't you... by Sherman, Jeff
+Sherman, Jeff
+10/23 9:33 AM
+
+The button is Cores Hub is green. Can't you just click "Move job to sort" and move them?
+Its very likely that the quarantined parts ... by Sherman, Jeff
+Sherman, Jeff
+10/23 9:35 AM
+
+Its very likely that the quarantined parts will just get sorted out at PF sort due to large negatives or some other visually obvious problem. If something does make it past sort, gets to final CT, and then gets quarantined we will investigate and correct at that point.
+ok.  do we know if those quarantined parts ... by O'Riordan, Brian
+O'Riordan, Brian
+10/23 9:42 AM
+
+ok.  do we know if those quarantined parts will get left behind in cores hub if we move it as is?
+Nope, they will move along with the job by Anderson, Nick
+Anderson, Nick
+10/23 9:42 AM
+
+Nope, they will move along with the job
+i think Brian S is about to try it by O'Riordan, Brian
+O'Riordan, Brian
+10/23 9:42 AM
+
+i think Brian S is about to try it
+has context menu
+
+ok cool
+In a nut shell: If Cores Hub allows you to ... by Sherman, Jeff
+Sherman, Jeff
+10/23 9:46 AM
+
+In a nut shell: If Cores Hub allows you to move them (i.e. the button is green) then move them. No reason to call for engineering review unless you have some reason to suspect that something is systematically wrong (like every part in the job is quarantined and they appear to be fine based on a quick visual check.)
+There is 2 jobs that is not allowing me to ... by Poly6 Floor2
+Poly6 Floor2
+10/23 10:30 AM
+
+There is 2 jobs that is not allowing me to scan 6225581 & 6225584
+
+image
+
+ 
+
+image
+6225581 has already been scanned by Chris P... by Anderson, Nick
+Anderson, Nick
+10/23 10:55 AM
+
+6225581 has already been scanned by Chris Phay @ 2025-10-23 02:05:41.387
+
+ 
+
+Looking into the other job now
+Looks like it is still processing from 3rd ... by Poly6 Floor2
+Poly6 Floor2
+10/23 11:17 AM
+
+Looks like it is still processing from 3rd shift
+Now thats worth looking into! On it by Anderson, Nick
+Anderson, Nick
+10/23 11:17 AM
+
+Now thats worth looking into! On it
+I can find no evidence that scan was ever r... by Anderson, Nick
+Anderson, Nick
+10/23 11:24 AM
+
+I can find no evidence that scan was ever run. I will have to reset it.
+Hey Nick, any update on 6225584? by O'Riordan, Brian
+O'Riordan, Brian
+10/23 4:22 PM
+Hey Nick, any update on 6225584?
+Sorry, I didn't get this message on my phon... by Anderson, Nick
+Anderson, Nick
+10/23 7:00 PM
+
+Sorry, I didn't get this message on my phone. It looks like its only not availabe to scan in the New UI. We should be able to scan that job using the Cores Hub UI. It is of note that one part is still stuck back at Post Fire Sort, which seems wrong.
+it's doing it again  image by Poly6 Floor2
+Poly6 Floor2
+10/23 8:10 PM
+
+it's doing it again 
+
+image
+Repeat the start up procedure with a full s... by Anderson, Nick
+Anderson, Nick
+10/23 8:35 PM
+
+Repeat the start up procedure with a full shut down. I send an email to PXS today and am waiting to hear back.
+I've done it multiple times already, still ... by Poly6 Floor2
+Poly6 Floor2
+10/23 11:13 PM
+
+I've done it multiple times already, still the same issue
+image by Poly6 Floor2
+Poly6 Floor2
+10/23 11:14 PM
+
+image
+Are we still having an issue here? Is ct do... by O'Riordan, Brian
+O'Riordan, Brian
+10/24 2:28 AM
+Are we still having an issue here? Is ct down?
+at the moment, yes it is down. I've tried t... by Poly6 Floor2
+Poly6 Floor2
+10/24 2:32 AM
+
+at the moment, yes it is down. I've tried to restart KAM multiple times with same results
+We can try and switch to the new UI and see... by Sirbak, Brian
+Sirbak, Brian
+10/24 2:35 AM
+
+We can try and switch to the new UI and see if that works again.
+thanks by O'Riordan, Brian
+O'Riordan, Brian
+10/24 2:37 AM
+
+thanks
+To be clear: this has nothing to do with th... by Sherman, Jeff
+Sherman, Jeff
+10/24 2:38 AM
+To be clear: this has nothing to do with the UI. The problem is coming from the x-ray tube and is being reported out by the x-ray tube monitoring software. This is completely separate from our UI. If it works it will work with either UI and if it is doesn’t it will fail equally in both UIs.
+yesterday when they switched over to the ne... by O'Riordan, Brian
+O'Riordan, Brian
+10/24 2:41 AM
+
+yesterday when they switched over to the new UI it started working.  maybe it was coincidence.  
+
+ 
+
+What matters is we are 80 parts short on our shipment because nothing has moved at CT since I left last night apparently.
+
+ 
+
+What are our options to solve this problem?
+Try to start the machine and don’t waste ti... by Sherman, Jeff
+Sherman, Jeff
+10/24 2:42 AM
+Try to start the machine and don’t waste time switching between UIs
+It’s a total coincidence if that had any ef... by Sherman, Jeff
+Sherman, Jeff
+10/24 2:43 AM
+It’s a total coincidence if that had any effect. My comment was intended to help you focus on the problem and not spend time messing with things that aren’t related.
+When you start back up make sure you rotate... by Sherman, Jeff
+Sherman, Jeff
+10/24 2:46 AM
+When you start back up make sure you rotate the target.
+The problem is excess leakage current. That... by Sherman, Jeff
+Sherman, Jeff
+10/24 2:49 AM
+The problem is excess leakage current. That means that electrical current that is supposed to to be focused in a tight beam on a single point on the target is instead “leaking” somewhere else. It’s an electrical isolation or  electrical potential issue. The target is electrically isolated by a ceramic ring. If you rotate the target it could possibly change something about that isolation and get this working.
+I've tried that multiple times already, I d... by Poly6 Floor2
+Poly6 Floor2
+10/24 2:50 AM
+
+I've tried that multiple times already, I did the reboot 10 times already last night and it still comes back with the same results Jeff
+And you rotated the target each time? by Sherman, Jeff
+Sherman, Jeff
+10/24 2:50 AM
+And you rotated the target each time?
+correct by Poly6 Floor2
+Poly6 Floor2
+10/24 2:50 AM
+
+correct
+image by Poly6 Floor2
+Poly6 Floor2
+10/24 2:50 AM
+
+image
+Ok. Then machine is down. by Sherman, Jeff
+Sherman, Jeff
+10/24 2:50 AM
+Ok. Then machine is down.
+Nothing we can do without support from pinn... by Sherman, Jeff
+Sherman, Jeff
+10/24 2:50 AM
+Nothing we can do without support from pinnacle
+Yes, I believe that Nick has reached out to... by Poly6 Floor2
+Poly6 Floor2
+10/24 2:51 AM
+
+Yes, I believe that Nick has reached out to the company already
+thank you for the support by Poly6 Floor2
+Poly6 Floor2
+10/24 2:51 AM
+
+thank you for the support
+thanks all.     it looks like there are a s... by O'Riordan, Brian
+O'Riordan, Brian
+10/24 3:08 AM
+
+thanks all.  
+
+ 
+
+it looks like there are a several jobs still processing at rebatch from first and second shift yesterday.  production folks, do we need help with any of these?
+Hey Jeff or Nick we do have one job 6225592... by O'Riordan, Brian
+O'Riordan, Brian
+10/24 3:31 AM
+
+Hey Jeff or Nick we do have one job 6225592 (16 parts) at rebatch that has been processing since last night.  can you take a look at what might be holding that one up?
+Hey Nick When you get a chance can you l... by Gaudioso, Michael
+Gaudioso, Michael
+10/24 4:38 AM
+
+Hey Nick
+
+When you get a chance can you look at MainLoop on LMQ everything appears to be processing normally however, rebatch has very little processed and we are running out of space on LMQ.
+Pashayan,   Jack  are you able to hep with ... by O'Riordan, Brian
+O'Riordan, Brian
+10/24 6:00 AM
+
+Pashayan,
+ Jack
+ are you able to hep with job number 6225592?... seems we scanned it and its in rebatch but core locations page shows it still patch.  However... it doesn't show up in any of the patch & finish sub-locations as far as i can tell.
+
+ 
+
+Is it possible to move this forward without rescanning it?
+
+ 
+
+image
+
+ 
+
+image
+
+ 
+
+image
+This mornings artifact scan failed. That sc... by Anderson, Nick
+Anderson, Nick
+10/24 6:06 AM
+
+This mornings artifact scan failed. That scan is showing that is was run during the bracket that the failing artifact closed which means it and everything else scanned since yesterday at 7:30 AM needs to be rescanned.
+was an artifact run lsat night? by O'Riordan, Brian
+O'Riordan, Brian
+10/24 6:07 AM
+
+was an artifact run lsat night?
+I don't see one. I think Chris was attempti... by Anderson, Nick
+Anderson, Nick
+10/24 6:08 AM
+
+I don't see one. I think Chris was attempting to do thatlast night and he ran into the issue detailed above.
+thought we were running artifacts on f1st a... by O'Riordan, Brian
+O'Riordan, Brian
+10/24 6:08 AM
+
+thought we were running artifacts on f1st and 3rd now to prevent this.
+what is best way to get a list of jobs scan... by O'Riordan, Brian
+O'Riordan, Brian
+10/24 6:09 AM
+
+what is best way to get a list of jobs scanned since 730am yesterday
+image   Looks like the one Chris did is sti... by Sirbak, Brian
+Sirbak, Brian
+10/24 6:10 AM
+
+image
+
+ 
+
+Looks like the one Chris did is still processing  
+That scan was never run by Anderson, Nick
+Anderson, Nick
+10/24 6:13 AM
+
+That scan was never run
+I can pull the list of jobs by Anderson, Nick
+Anderson, Nick
+10/24 6:14 AM
+
+I can pull the list of jobs
+Thanks. Let us know as soon as possible. Go... by O'Riordan, Brian
+O'Riordan, Brian
+10/24 6:25 AM
+Thanks. Let us know as soon as possible. Going to require a large triage afford to salvage what we can
+Is it safe to assume we only care about the... by Anderson, Nick
+Anderson, Nick
+10/24 6:37 AM
+
+Is it safe to assume we only care about the Final Inspection jobs?
+Yes by Wittman, Tamara
+Wittman, Tamara
+10/24 6:38 AM
+
+Yes
+they are priority by Wittman, Tamara
+Wittman, Tamara
+10/24 6:38 AM
+
+they are priority
+Do we care if they are Production vs Eng Tr... by Anderson, Nick
+Anderson, Nick
+10/24 6:40 AM
+
+Do we care if they are Production vs Eng Trial parts?
+no by O'Riordan, Brian
+O'Riordan, Brian
+10/24 6:44 AM
+
+no
+Message by Anderson, Nick, has an attachment.
+Anderson, Nick
+10/24 6:45 AM
+Jobs Scanned 251024.csv
+Pashayan,   Jack , Mansperger,   Rob , ple... by Anderson, Nick
+Anderson, Nick
+10/24 6:56 AM
+
+Pashayan,
+ Jack
+, Mansperger,
+ Rob
+, please move these jobs back to CT
+Also, KAM is up and running. The error mess... by Anderson, Nick
+Anderson, Nick
+10/24 6:58 AM
+
+Also, KAM is up and running. The error messages we were seeing last night are still present but they do not prevent us from scanning. We have a passing artifact scan post homing so we can continue to scan at this time. I will escalate again to PXS to address the error messages.
+Begin Reference, Pashayan, Jack, Mansperger... by Mansperger, Rob
+Mansperger, Rob
+10/24 7:41 AM
+Anderson, Nick10/24/2025 6:56 AM
+Pashayan, Jack, Mansperger, Rob, please move these jobs back to CT
+
+Anderson,
+ Nick
+ not sure if it's relevant, but job 6225621 never was processed through CT. I do see the scan records but neither Cores2.Master.Details nor Cores2.Dimensional.Master were updated. not sure if it was just another dropped transaction or something else
+
+cc Pashayan,
+ Jack
+Since we are in a time crunch to get thes p... by Anderson, Nick
+Anderson, Nick
+10/24 7:48 AM
+
+Since we are in a time crunch to get thes parts processed and the last artifact scan was close to failing I am recommending we scan the artifact every hour in order to lock in and confirm the scans we ran prior are not going to need to be rescanned. Along with this I recommend that we do not move jobs untill the artifact bracket is comuted and shows passing. This is indicated in the rebatch page under the scan number associated with each part. If it says 'Not Closed' there is not data for the closing bracket to validate the scan data. See below.
+
+Bild
+
+ 
+
+If the artifact failed, it will also be indicated here. In this case the parts will need to be rescanned after the next passing artifact scan.
+
+Bild
+
+ 
+
+Once the scan number is black with no message for each part in a job, the job can be moved.
+
+Bild
+
+ 
+
+ 
+
+I will monitor the artifact results and if we trend away from the spec, and the risk of failuire drops, I will update this chat to indicate that we can scan the artifact on a less frequent basis.
+Begin Reference, Anderson, Nick not sure if... by Anderson, Nick
+Anderson, Nick
+10/24 7:48 AM
+Mansperger, Rob10/24/2025 7:41 AM
+Anderson, Nick not sure if it's relevant, but job 6225621 never was processed through CT. I do see the scan records but neither Cores2.Master.Details nor Cores2.Dimensional.Master were updated. not sure if it was just another dropped transaction or something else cc Pashayan, Jack
+
+That job was still at rebatch and I already reset it, sorry not comunicating that in the spreadsheet
+Is there anything that can be done on the m... by O'Riordan, Brian
+O'Riordan, Brian
+10/24 8:17 AM
+Is there anything that can be done on the mainloop or data processing end
+First job just finished rebatch by O'Riordan, Brian
+O'Riordan, Brian
+10/24 8:18 AM
+First job just finished rebatch
+MainLoop is processing as fast as possible ... by Anderson, Nick
+Anderson, Nick
+10/24 8:33 AM
+
+MainLoop is processing as fast as possible atm. 1028 is top priority after the artifact scans
+Please move job 6225627 back to rescan by Poly6 Floor2, has an attachment.
+Poly6 Floor2
+10/24 10:47 AM
+
+Please move job 6225627 back to rescan
+Begin Reference, Please move job 6225627 ba... by Pashayan, Jack
+10/24 10:47 AM
+Pashayan, Jack
+Poly6 Floor210/24/2025 10:47 AM
+Please move job 6225627 back to rescan 📄 Screenshot 2025-10-24 134647.png
+
+I can do this
+FYI there are parts from 6225628 on Scan th... by Pashayan, Jack
+10/24 10:50 AM
+Pashayan, Jack
+
+FYI there are parts from 6225628 on Scan that also should be moved back to CT Scan per this logic
+
+ 
+
+Scan 33604
+
+Job 6225628
+
+ 
+
+45339-071C
+45338-075A
+45338-075E
+45337-077A
+45339-071E
+45340-081C
+45885-162D
+45885-162C
+45887-012D
+Why are wew moving this job back? by Anderson, Nick
+Anderson, Nick
+10/24 10:55 AM
+
+Why are wew moving this job back?
+it says artifact failure but i don't think ... by O'Riordan, Brian
+O'Riordan, Brian
+10/24 10:56 AM
+
+it says artifact failure but i don't think we should be moving it
+I think I will defer to Nick's judgement in... by Pashayan, Jack
+10/24 10:58 AM
+Pashayan, Jack
+
+I think I will defer to Nick's judgement in... by Pashayan, Jack
+10/24 10:58 AM
+Pashayan, Jack
+
+I think I will defer to Nick's judgement instead
+Nick, do you have an opinion on that?   by O'Riordan, Brian
+O'Riordan, Brian
+10/24 11:20 AM
+
+Nick, do you have an opinion on that?  
+None of the artifacts that have run since t... by Anderson, Nick
+Anderson, Nick
+10/24 11:26 AM
+
+None of the artifacts that have run since this morning have failed. That is a bug in cores hub. Sorry for the confusion. Everything that was scanned this morning is safe to move. Did Hemant reach out with the plan moving forward?
+he is writting the message with the plan pr... by Mansperger, Rob
+Mansperger, Rob
+10/24 11:27 AM
+
+he is writting the message with the plan presently
+No need to continue with artifact scans btw by Anderson, Nick
+Anderson, Nick
+10/24 11:49 AM
+
+No need to continue with artifact scans btw
+hey Jack, can you look at job#6216059 ?  it... by Poly6 Floor2
+Poly6 Floor2
+10/24 1:08 PM
+
+hey Jack, can you look at job#6216059 ?  its a rebatch and I think its being held up by a qty discrepency
+but it also says artifact failure but I bel... by Poly6 Floor2
+Poly6 Floor2
+10/24 1:09 PM
+
+but it also says artifact failure but I believe this is one of the jobs that was scanned after the artifacts started passing today
+It was, all scans greater than 33600 are go... by Anderson, Nick
+Anderson, Nick
+10/24 1:15 PM
+
+It was, all scans greater than 33600 are good
+Yes, 43580-026E was not scanned in that job by Pashayan, Jack
+10/24 1:16 PM
+Pashayan, Jack
+
+Yes, 43580-026E was not scanned in that job
+Ok. It doesn’t exist. So does that mean we ... by O'Riordan, Brian
+O'Riordan, Brian
+10/24 1:19 PM
+Ok. It doesn’t exist. So does that mean we just scrap it at ct on our end?
+Definitely by Pashayan, Jack
+10/24 1:21 PM
+Pashayan, Jack
+
+Definitely
+k by O'Riordan, Brian
+O'Riordan, Brian
+10/24 1:33 PM
+
+k
+Media by Moua, Hue
+Moua, Hue
+10/24 4:30 PM
+
+Media
+Is anyone able to help me ? I have 2 parts ... by Moua, Hue
+Moua, Hue
+10/24 4:31 PM
+
+Is anyone able to help me ? I have 2 parts from the same job that I can't scan into ct. I have checked the job location and it look like all the parts does belong with this job.
+Job number 6225621 by Moua, Hue
+Moua, Hue
+10/24 4:32 PM
+
+Job number 6225621
+Media by Moua, Hue
+Moua, Hue
+10/24 4:32 PM
+
+Media
+These are the two cores that I can't scan by Moua, Hue
+Moua, Hue
+10/24 4:32 PM
+
+These are the two cores that I can't scan
+image #1 image #2   by Poly6 Floor2
+Poly6 Floor2
+10/26 9:00 PM
+
+image
+
+#1
+
+image
+
+#2
+
+ 
+Did they pass? by Sirbak, Brian
+Sirbak, Brian
+10/27 12:48 AM
+Did they pass?
+image by Poly6 Floor2
+Poly6 Floor2
+10/27 1:07 AM
+
+image
+I ran both already, not sure why Post-Homin... by Poly6 Floor2
+Poly6 Floor2
+10/27 1:07 AM
+
+I ran both already, not sure why Post-Homing is not showing up
+Job only has 19 parts but it thinks it shou... by Sirbak, Brian
+Sirbak, Brian
+10/27 4:42 AM
+
+Job only has 19 parts but it thinks it should have 20.  Can someone change the amount back to 19?
+
+image
+Is that the one we just have to scrap one? by O'Riordan, Brian
+O'Riordan, Brian
+10/27 4:43 AM
+Is that the one we just have to scrap one?
+It does have a note to scrap one but that o... by Sirbak, Brian
+Sirbak, Brian
+10/27 4:44 AM
+
+It does have a note to scrap one but that one has not been scanned or in CH to be taken out.
+Please check on job.  It was scanned on Fri... by Sirbak, Brian
+Sirbak, Brian
+10/27 4:51 AM
+
+Please check on job.  It was scanned on Friday and still not finished.
+
+image
+image   Sirbak,   Brian , is this all set?... by Ajbani, Hemant
+Ajbani, Hemant
+10/27 5:14 AM
+
+image
+
+  Sirbak,
+ Brian
+, is this all set?  Or, needs some TLC - 8 out 9 parts on one hand and the Artifact failure aspect.
+Needs TLC.  the 9th part will not scan (458... by Sirbak, Brian
+Sirbak, Brian
+10/27 5:16 AM
+
+Needs TLC.  the 9th part will not scan (45890-028E)
+Please look at job stuck image by Poly6 Floor2
+Poly6 Floor2
+10/28 8:12 AM
+
+Please look at job stuck
+
+image
+Pashayan,   Jack , can you take a look at t... by Anderson, Nick
+Anderson, Nick
+10/28 8:49 AM
+
+Pashayan,
+ Jack
+, can you take a look at this? I have confirmed all of these parts processed, all the data is in DCAP, and all parts have the 'Analysis Complete' Resolution in the quarantine table.
+Hi, I have fixed this. The [location] of th... by Pashayan, Jack
+10/28 8:57 AM
+Pashayan, Jack
+
+Hi, I have fixed this. The [location] of the parts was stuck at Patch, and I had to fix that
+image   Another that might need Jack's help by Poly6 Floor2
+Poly6 Floor2
+10/28 9:55 AM
+
+image
+
+ 
+
+Another that might need Jack's help
+This is the 3rd small issue with jobs comin... by Pashayan, Jack
+10/28 9:59 AM
+Pashayan, Jack
+
+This is the 3rd small issue with jobs coming out of Patch that I've seen today. Not sure why
+It is fixed now by Pashayan, Jack
+10/28 9:59 AM
+Pashayan, Jack
+
+It is fixed now
+The patch gremlins are growing restless as ... by Anderson, Nick
+Anderson, Nick
+10/28 10:01 AM
+
+The patch gremlins are growing restless as Halloween approches
+are these just missed transactions at the p... by O'Riordan, Brian
+O'Riordan, Brian
+10/28 10:43 AM
+
+are these just missed transactions at the patch operation?
+I saw the text "NULL" in place of the nothi... by Pashayan, Jack
+10/28 10:44 AM
+Pashayan, Jack
+
+I saw the text "NULL" in place of the nothing value NULL on a row, which I've never seen the app do
+Am I doing something wrong?? image by Poly6 Floor2
+Poly6 Floor2
+10/28 8:39 PM
+
+Am I doing something wrong??
+
+image
+It looks like KAM lost connection to the da... by Anderson, Nick
+Anderson, Nick
+10/29 6:49 AM
+
+It looks like KAM lost connection to the data server we write the scans too. You didn't do anything wrong.
+Jobs 6225562, 6225564 and 6218704 are showi... by Leone, Benjamin, has an attachment.
+Leone, Benjamin
+10/30 3:03 AM
+
+Jobs 6225562, 6225564 and 6218704 are showing as not closed
+Has the artifact passed? by Sirbak, Brian
+Sirbak, Brian
+10/30 4:14 AM
+
+Has the artifact passed?
+All set!! by Leone, Benjamin
+Leone, Benjamin
+10/30 4:24 AM
+
+All set!!
+looks like 6218694, 6218702, 6225560, 62255... by O'Riordan, Brian
+O'Riordan, Brian
+10/30 8:18 AM
+
+looks like 6218694, 6218702, 6225560, 6225573, 6320155, 6233878 all ready to move
+Begin Reference, looks like 6218694, 621870... by Ajbani, Hemant
+Ajbani, Hemant
+10/30 8:23 AM
+O'Riordan, Brian10/30/2025 8:18 AM
+looks like 6218694, 6218702, 6225560, 6225573, 6320155, 6233878 all ready to move
+
+Nice.  Keep this up - Team!
+Nick, can you confirm that we are good to m... by Sirbak, Brian
+Sirbak, Brian
+10/30 9:00 AM
+
+Nick, can you confirm that we are good to move parts even when it has "Not Closed"?
+
+It does not show on screen that the 2nd artifact has passed yet on the top of the screen.
+
+image
+The reason the post-homing scan isn't showi... by Anderson, Nick
+Anderson, Nick
+10/30 9:08 AM
+
+The reason the post-homing scan isn't showing results is because the CT_Ver jobs were run in reverse order order. That no fault of the operator and is an issue we are working to poke yoke. I can confirm all artifact scans run today have passed.
+
+ 
+
+If those jobs were scanned today after the last artifact scan then the bracket is indeed not closed and the jobs shouldn't be moved yet.
+If that’s the case, then we need to do an a... by Sirbak, Brian
+Sirbak, Brian
+10/30 9:09 AM
+If that’s the case, then we need to do an artifact scan so that we can start moving them downstairs.
+Correct by Anderson, Nick
+Anderson, Nick
+10/30 9:16 AM
+
+Correct
+Job 6242430 has a few parts that are Quaran... by Leone, Benjamin
+Leone, Benjamin
+10/30 10:40 AM
+
+Job 6242430 has a few parts that are Quarantined 
+Cleared the issue, they will update soon(is... by Anderson, Nick
+Anderson, Nick
+10/30 11:11 AM
+
+Cleared the issue, they will update soon(ish)
+Hey nick, im trying to power cycle the old ... by Poly6 Floor2
+Poly6 Floor2
+10/30 4:23 PM
+Important
+
+Hey nick, im trying to power cycle the old UI and for some reason it is not re-homing axis 
+image by Poly6 Floor2
+Poly6 Floor2
+10/30 4:24 PM
+
+image
+No judgements, just collecting facts, why d... by Anderson, Nick
+Anderson, Nick
+10/30 4:27 PM
+
+No judgements, just collecting facts, why did you need to power cycle?
+Ct is down. Nick will resolve the issue tom... by Moua, Hue
+Moua, Hue
+10/30 6:32 PM
+
+Ct is down. Nick will resolve the issue tomorrow.
+We need to be scanning all 1028’s for tomor... by Sirbak, Brian
+Sirbak, Brian
+10/30 6:34 PM
+
+We need to be scanning all 1028’s for tomorrow’s shipment.
+Nick when can we expect to be running again?
+I'll be in early tomorrow to resolve. I exp... by Anderson, Nick
+Anderson, Nick
+10/30 6:53 PM
+
+I'll be in early tomorrow to resolve. I expect to have KAM back up by 11 at the latest
+We have shipment cutoff of noon by O'Riordan, Brian
+O'Riordan, Brian
+10/30 6:55 PM
+We have shipment cutoff of noon
+I will do what I can to get it working as s... by Anderson, Nick
+Anderson, Nick
+10/30 6:57 PM
+
+I will do what I can to get it working as soon as possible. If anyone wants to try restarting from the main switch on the electrical box they can but Hie just did that so I don't have high hopes it will fix it.
+ok, just to be clear, we need 113 parts to ... by O'Riordan, Brian
+O'Riordan, Brian
+10/30 7:21 PM
+
+ok, just to be clear, we need 113 parts to yielded through CT, rebatch, final viz and final quality by noon tomorrow.  
+
+I thought there were 3 jobs on the rebatch rack when i left tonight.  i don't see where those are now in the system now.
+Brian o i only moved 2 jobs down which are ... by Poly6 Floor2
+Poly6 Floor2
+10/30 7:22 PM
+
+Brian o i only moved 2 jobs down which are green state
+I dont see anything else that are ready for... by Poly6 Floor2
+Poly6 Floor2
+10/30 7:23 PM
+
+I dont see anything else that are ready for re-batch. some jobs are still waiting for data to process 
+Thanks. Are there 3 final ct 1028 jobs in r... by O'Riordan, Brian
+O'Riordan, Brian
+10/30 7:36 PM
+Thanks. Are there 3 final ct 1028 jobs in rebatch? That’s what I saw on the “final ct complete” rack hrs ago
+Before I left, I double checked and saw maj... by Moua, Hue
+Moua, Hue
+10/30 7:42 PM
+
+Before I left, I double checked and saw majority are 1024s, 1 1023 and I believed 1 1028.1023 and 1028 is waiting  on some data to process
+Ill see if I can get a hold of Chris and ha... by Moua, Hue
+Moua, Hue
+10/30 7:43 PM
+
+Ill see if I can get a hold of Chris and have him double check
+I moved 2 1028 gs jobs out of rebatch by Moua, Hue
+Moua, Hue
+10/30 7:44 PM
+
+I moved 2 1028 gs jobs out of rebatch
+O'Riordan,   Brian  there are still a major... by Poly6 Floor2
+Poly6 Floor2
+10/30 8:12 PM
+
+O'Riordan,
+ Brian
+ there are still a majority of jobs that are still processing. 
+
+image
+
+I have 1 job that has this...do you want me to just scrap that 1 part out so we can move the job to next step
+Artifact's have been scanned and I am start... by Poly6 Floor2
+Poly6 Floor2
+10/31 4:44 AM
+
+Artifact's have been scanned and I am starting to scan 1028's final.  fingers crossed they pass and no errors.z
+
+Thanks,
+Begin Reference, Artifact's have been scann... by Ajbani, Hemant
+Ajbani, Hemant
+10/31 4:51 AM
+Poly6 Floor210/31/2025 4:44 AM
+Artifact's have been scanned and I am starting to scan 1028's final. fingers crossed they pass and no errors.zThanks,
+
+Thanks Brian, Ben.
+Can we ensure that 1028's are priority pros... by Poly6 Floor2
+Poly6 Floor2
+10/31 4:54 AM
+
+Can we ensure that 1028's are priority prosseing data?  
+I think Jobs 6222597 and 6211183 need to be... by Leone, Benjamin
+Leone, Benjamin
+10/31 5:22 AM
+
+I think Jobs 6222597 and 6211183 need to be rescanned 
+why by O'Riordan, Brian
+O'Riordan, Brian
+10/31 5:22 AM
+
+why
+6222597 has been processing for a day now a... by Leone, Benjamin
+Leone, Benjamin
+10/31 5:24 AM
+
+6222597 has been processing for a day now and 6211183 has parts "Analysis Not Done" 
+6222597 is the scan Hue tried to start last... by Anderson, Nick
+Anderson, Nick
+10/31 5:25 AM
+
+6222597 is the scan Hue tried to start last night before he ran into the issues he was having. It never actually ran so I'm reseting it now
+Pashayan,   Jack , any idea whats going on ... by Anderson, Nick
+Anderson, Nick
+10/31 5:38 AM
+
+Pashayan,
+ Jack
+, any idea whats going on with 42968-081F in 6211183?
+I can confirm analysis is in fact complete by Anderson, Nick
+Anderson, Nick
+10/31 5:39 AM
+
+I can confirm analysis is in fact complete
+2nd artifact has passed so parts that are b... by Poly6 Floor2
+Poly6 Floor2
+10/31 7:52 AM
+
+2nd artifact has passed so parts that are being brought down are good to move.  Last 1028 is scanned and I will be doing another artifact after this scan that is running.
+thank you! how many more do we need to move... by O'Riordan, Brian
+O'Riordan, Brian
+10/31 8:03 AM
+
+thank you! how many more do we need to move down to final viz to have a shot at 613?  looks like maybe one more job
+correct 1 more  by Poly6 Floor2
+Poly6 Floor2
+10/31 8:04 AM
+
+correct 1 more 
+Begin Reference, thank you! how many more d... by Ajbani, Hemant
+Ajbani, Hemant
+10/31 8:12 AM
+O'Riordan, Brian10/31/2025 8:03 AM
+thank you! how many more do we need to move down to final viz to have a shot at 613? looks like maybe one more job
+
+Moved 1 tray
+for tonight...  this is printed out by scan... by O'Riordan, Brian
+O'Riordan, Brian
+11/2 7:03 AM
+
+for tonight...  this is printed out by scanner with trays grouped and labeled
+
+ 
+
+image
+artifact scan on new UI not working. I'm go... by Poly6 Floor2
+Poly6 Floor2
+11/2 8:35 PM
+
+artifact scan on new UI not working. I'm going to revert to old program for tonight
+Did you do warmup? by Sirbak, Brian
+Sirbak, Brian
+11/2 10:21 PM
+Did you do warmup?
+Yes, it was giving me a red error pop up by Poly6 Floor2
+Poly6 Floor2
+11/2 10:22 PM
+
+Yes, it was giving me a red error pop up
+I didn't want to waste time on not scanning... by Poly6 Floor2
+Poly6 Floor2
+11/2 10:23 PM
+
+I didn't want to waste time on not scanning everything, that's why I reverted to the Cores Hub scans
+I forgot to screen shot the issue by Poly6 Floor2
+Poly6 Floor2
+11/2 10:23 PM
+
+I forgot to screen shot the issue
+Don’t worry about red errors on the left mo... by Sirbak, Brian
+Sirbak, Brian
+11/2 10:23 PM
+Don’t worry about red errors on the left monitor and run the artifact.
+It didn't allow me to run the artifact, the... by Poly6 Floor2
+Poly6 Floor2
+11/2 10:24 PM
+
+It didn't allow me to run the artifact, the error was on the new U.I.
+I'll run it again after I'm done with this ... by Poly6 Floor2
+Poly6 Floor2
+11/2 10:25 PM
+
+I'll run it again after I'm done with this scan and screen shot it if it pops up again. I did run the artifact scan on the old U.I.
+Ok, if it allows you to continue scan with ... by Sirbak, Brian
+Sirbak, Brian
+11/2 10:27 PM
+Ok, if it allows you to continue scan with the existing UI.
+Cores hub rebatch is incredibly slow this m... by Gaudioso, Michael
+Gaudioso, Michael
+11/3 4:07 AM
+Cores hub rebatch is incredibly slow this morning here in p6c — are u guys seeing a similar pattern?
+Media by Moua, Hue
+Moua, Hue
+11/3 5:44 PM
+
+Media
+Automation profile showing red. Will it let... by Moua, Hue
+Moua, Hue
+11/3 5:44 PM
+
+Automation profile showing red. Will it let me by pass?
+Yupp, not sure why it shows red but you can... by Anderson, Nick
+Anderson, Nick
+11/3 5:51 PM
+
+Yupp, not sure why it shows red but you can still create the scan record. Pashayan, Jack
+, can you weigh in on this tomorrow?
+Okay I'll go ahead and continue by Moua, Hue
+Moua, Hue
+11/3 5:52 PM
+
+Okay I'll go ahead and continue
+Dies Hub just isn't coded to expect an "M" ... by Pashayan, Jack
+11/3 5:54 PM
+Pashayan, Jack
+
+Dies Hub just isn't coded to expect an "M" in the profile where it is, but otherwise you are fine to proceed
+image Ben...still didn't work by Poly6 Floor2
+Poly6 Floor2
+11/3 11:00 PM
+
+image
+
+Ben...still didn't work
+You haven't connected to the scanner. The d... by Anderson, Nick
+Anderson, Nick
+11/4 4:33 AM
+
+You haven't connected to the scanner. The dot in the top right is Grey, not green.
+Message by Poly6 Floor2, has attachments.
+Poly6 Floor2
+11/4 4:38 AM
+Anderson,   Nick    The profile for 1028 fi... by Leone, Benjamin
+Leone, Benjamin
+11/4 4:38 AM
+
+Anderson,
+ Nick
+   The profile for 1028 fired cores isn't showing up in the new UI. These parts are pre-post fire sort and patch so It could be that.   Started the scan and had the same issuse I had while running artifacts yesterday morning. The scan record is created but never starts scanning.
+Message by Poly6 Floor2, has an attachment.
+Poly6 Floor2
+11/4 4:49 AM
+Nick can you look at rebatch it looks to st... by Sirbak, Brian
+Sirbak, Brian
+11/4 5:46 AM
+
+Nick can you look at rebatch it looks to still be processing.
+MainLoop had hung up some time last night. ... by Anderson, Nick
+Anderson, Nick
+11/4 7:22 AM
+
+MainLoop had hung up some time last night. Everything is processing now
+The parts in Scan 34006 needs to be rescann... by Poly6 Floor2
+Poly6 Floor2
+11/4 7:43 AM
+
+The parts in Scan 34006 needs to be rescanned due to the scan failing to start.
+On it by Anderson, Nick
+Anderson, Nick
+11/4 7:43 AM
+
+On it
+Nick did you see Ben's message that we are ... by Sirbak, Brian
+Sirbak, Brian
+11/4 7:45 AM
+
+Nick did you see Ben's message that we are not able to scan 1028's?
+
+image
+Are they configured on the routing to be sc... by Anderson, Nick
+Anderson, Nick
+11/4 7:46 AM
+
+Are they configured on the routing to be scanned?
+Yes, and they are correctly at "CT Scan" by Pashayan, Jack
+11/4 7:50 AM
+Pashayan, Jack
+
+Yes, and they are correctly at "CT Scan"
+Yeah mostly EP-600 Engneering Trials. A few... by Leone, Benjamin
+Leone, Benjamin
+11/4 7:50 AM
+
+Yeah mostly EP-600 Engneering Trials.
+
+A few are at Final CT but no 1028 are showing in the UI 
+Bild Scan 34006 has been flagged for rescan... by Anderson, Nick
+Anderson, Nick
+11/4 8:00 AM
+
+Bild
+
+Scan 34006 has been flagged for rescan. CLick the 'Rescan' button for any of the parts and they will all be sent back to the scan queue
+If you can wait on scanning the 1028's we c... by Anderson, Nick
+Anderson, Nick
+11/4 8:01 AM
+
+If you can wait on scanning the 1028's we can use them to troubleshoot what is going on. If you can't wait, us the old UI to scan them.
+FYI, you should scan another artifact soon.... by Anderson, Nick
+Anderson, Nick
+11/4 8:05 AM
+
+FYI, you should scan another artifact soon. The last one passed but just barely.
+I will do artifact when this scan is done. by Poly6 Floor2
+Poly6 Floor2
+11/4 8:06 AM
+
+I will do artifact when this scan is done.
+Do you have an ETA when we will have 1028's... by Poly6 Floor2
+Poly6 Floor2
+11/4 8:07 AM
+
+Do you have an ETA when we will have 1028's in the new UI again?
+Not at all by Anderson, Nick
+Anderson, Nick
+11/4 8:13 AM
+
+Not at all
+I am looking into it by Pashayan, Jack
+11/4 8:14 AM
+Pashayan, Jack
+
+I am looking into it
+We found and addressed the issue. Can you r... by Pashayan, Jack
+11/4 8:35 AM
+Pashayan, Jack
+
+We found and addressed the issue. Can you refresh the new CT UI? You should see IPP-028H_S_PROD now
+Looks like we have it again. THnaks by Poly6 Floor2
+Poly6 Floor2
+11/4 8:37 AM
+
+Looks like we have it again.
+
+THnaks
+JOB# 6243368 ENG. Trial (Female Port) DOES ... by Poly6 Floor2
+Poly6 Floor2
+11/4 11:01 PM
+
+JOB# 6243368 ENG. Trial (Female Port) DOES NOT match fixture # because of this reason we cant move it through the system. (DIE HUB)
+Nick  can you please look at this job?   im... by Poly6 Floor2
+Poly6 Floor2
+11/5 4:01 AM
+
+Nick  can you please look at this job?  
+
+image
+Pashayan, Jack , here's an example of what ... by Anderson, Nick
+Anderson, Nick
+11/5 5:07 AM
+
+Pashayan, Jack
+, here's an example of what we were discussing yesterday.
+hey folks, last night we had an unusual num... by O'Riordan, Brian
+O'Riordan, Brian
+11/5 8:10 AM
+
+hey folks, last night we had an unusual number of parts fail dimensional.  these were early version EP-600 trials that came from P6C and were "high fire CT" scanned per the router. How confident should we be that those parts would have failed Final CT if we had patched them?  I'd like to stop doing these scans if the data is not needed for older trials, however i also don't want to patch a large number of parts that are going to fail final CT
+I'm not sure who i'm asking to be honest, m... by O'Riordan, Brian
+O'Riordan, Brian
+11/5 8:12 AM
+
+I'm not sure who i'm asking to be honest, maybe Nick for the first part?  is there any reason to believe these will pass after we patch?
+The only way I can think that a part that f... by Anderson, Nick
+Anderson, Nick
+11/5 8:21 AM
+
+The only way I can think that a part that fails at high fire would pass at final would be that there is a void on an inspection surface that gets patched. The void would cause the feature to fail at high fire and if it is patched in a way that returns it to a conforming state it would possibly pass. I don't think that this is likely to be a high occurrence event though.
+Last artifact has passed by Anderson, Nick
+Anderson, Nick
+11/5 8:48 AM
+
+Last artifact has passed
+Great now scan scan scan like the wind by Sirbak, Brian
+Sirbak, Brian
+11/5 8:49 AM
+
+Great now scan scan scan like the wind
+What is the process for kicking back jobs t... by Pashayan, Jack
+11/5 9:43 AM
+Pashayan, Jack
+
+What is the process for kicking back jobs to be rescanned when the artifact fails?
+Image Image Can we skip high fire ct on t... by O'Riordan, Brian
+O'Riordan, Brian
+11/5 10:16 AM
+
+Image
+Image
+Can we skip high fire ct on these two jobs please?
+I already kicked them back in the system. T... by Anderson, Nick
+Anderson, Nick
+11/5 10:16 AM
+
+I already kicked them back in the system. They need to be physically moved if they have not
+
+ 
+
+This is in response to Jack, not Brian
+Begin Reference, 📷 Image 📷 Image Can we s... by Muralidhar, Nitin
+Muralidhar, Nitin
+11/5 10:36 AM
+
+O'Riordan, Brian11/5/2025 10:16 AM
+📷 Image 📷 Image Can we skip high fire ct on these two jobs please?
+Please don’t skip any 600E..we are planning to present data on Friday.
+Hi im working on job# 6233778 and the seria... by Poly6 Floor2
+Poly6 Floor2
+11/5 2:48 PM
+
+Hi im working on job# 6233778 and the serial number wont allow me to scan into the new UI, I cant type it in manually without it going red. I checked to see if the part was scrapped but it was not. The serial number is 47732-598B.
+Do not move 1037 parts out of rebatch. I fo... by Anderson, Nick
+Anderson, Nick
+11/5 3:07 PM
+
+Do not move 1037 parts out of rebatch. I found a bug in the analysis and need to reprocess the data. I will let this chat know once they are safe to move.
+Also, The 'Artifact Failed' labels we are s... by Anderson, Nick
+Anderson, Nick
+11/5 3:08 PM
+
+Also, The 'Artifact Failed' labels we are seeing in the rebatch screen are not accurate. Pashayan,
+ Jack
+ we need to look into this. I have confirmed all the parts with scan number less than 34081 are safe to move.
+How did you confirm that they were safe to ... by Pashayan, Jack
+11/5 3:32 PM
+Pashayan, Jack
+
+How did you confirm that they were safe to move? I am seeing that the latest Artifact Scan before 34081 was 34045, which failed
+Yupp. SR34063 passed by Anderson, Nick
+Anderson, Nick
+11/5 4:02 PM
+
+Yupp. SR34063 passed
+Image Image These two appear to be final ... by O'Riordan, Brian
+O'Riordan, Brian
+11/6 3:21 AM
+
+Image
+Image
+These two appear to be final CT jobs with very low yield. Any reason to question these results? Unusual for sure.
+This job was from 2nd shift yesterday and h... by Poly6 Floor2
+Poly6 Floor2
+11/6 5:39 AM
+
+This job was from 2nd shift yesterday and has a processing still.  Nick can you look at this?
+
+image
+Begin Reference, This job was from 2nd shif... by Anderson, Nick
+Anderson, Nick
+11/6 7:16 AM
+Poly6 Floor211/6/2025 5:39 AM
+This job was from 2nd shift yesterday and has a processing still. Nick can you look at this? 📷
+
+Looks like that part was misloaded. I flagged the scan as needing to be rescanned. Please click the button in rebatch once you physically move the parts back.
+Begin Reference, 📷 📷 These two appea... by Anderson, Nick
+Anderson, Nick
+11/6 7:33 AM
+O'Riordan, Brian11/6/2025 3:21 AM
+📷 📷 These two appear to be final CT jobs with very low yield. Any reason to question these results? Unusual for sure.
+
+Sorry, should have mentioned I am looking into this
+Anything with the high failure that Brian O... by Poly6 Floor2
+Poly6 Floor2
+11/6 7:37 AM
+
+Anything with the high failure that Brian O mentioned earlier?
+Begin Reference, Sorry, should have mention... by Anderson, Nick
+Anderson, Nick
+11/6 7:49 AM
+Anderson, Nick11/6/2025 7:33 AM
+Sorry, should have mentioned I am looking into this
+
+As I said, looking into this
+Ok, looks like there is no reason to distru... by Anderson, Nick
+Anderson, Nick
+11/6 7:55 AM
+
+Ok, looks like there is no reason to distrust the CT data for these jobs. The parts are overall smaller than they should be and we have been seeing this trend lately with the G slurry lot.
+ouch.  ok thanks.  maybe calls for future s... by O'Riordan, Brian
+O'Riordan, Brian
+11/6 8:16 AM
+
+ouch.  ok thanks.  maybe calls for future scale factor adjustment?
+Discussing that with Arun right now by Sherman, Jeff
+Sherman, Jeff
+11/6 8:16 AM
+
+Discussing that with Arun right now
+Put in a meeting for this afternoon to go o... by Surendranath, Arun
+Surendranath, Arun
+11/6 8:28 AM
+
+Put in a meeting for this afternoon to go over the data and plan
+Are we able to move the 1037's out of rebat... by Poly6 Floor2
+Poly6 Floor2
+11/6 9:32 AM
+
+Are we able to move the 1037's out of rebatch?  I don't recall seeing anything after seeing yesterday to hold off on moving?
+Don't move them yet by Anderson, Nick
+Anderson, Nick
+11/6 9:45 AM
+
+Don't move them yet
+Hi Nick, are you available to come to CT? by Poly6 Floor2
+Poly6 Floor2
+11/6 12:30 PM
+
+Hi Nick, are you available to come to CT?
+Physically, no. I am at home today. But fee... by Anderson, Nick
+Anderson, Nick
+11/6 12:31 PM
+
+Physically, no. I am at home today. But feel free to give me a call and I can remote in.
+Okay. I should be all good for now. I got a... by Poly6 Floor2
+Poly6 Floor2
+11/6 12:38 PM
+
+Okay. I should be all good for now. I got a radiograph failure but i just retried and it went through.
+Trying to run artifact.  Hit the home axes ... by Merino, Marcial
+Merino, Marcial
+11/6 9:59 PM
+
+Trying to run artifact.  Hit the home axes button and it gives me an error, I hit retry and nothing happened. The light is green for it on the UI.
+Moving forward with the steps by Merino, Marcial
+Merino, Marcial
+11/6 9:59 PM
+
+Moving forward with the steps
+I had to hit the E stop 3 times for minor t... by Merino, Marcial
+Merino, Marcial
+11/6 10:41 PM
+
+I had to hit the E stop 3 times for minor things since i dont see an abort option. I'm still getting familiar with the machine. Was able to do the artifact scan but now I can't get the scanner to connect
+I hit the launch pixs button and it says it... by Merino, Marcial
+Merino, Marcial
+11/6 10:42 PM
+
+I hit the launch pixs button and it says it's attempting on the UI but the pixs app throws an erros
+Task 4 does not have a run status after 3 r... by Merino, Marcial
+Merino, Marcial
+11/6 10:44 PM
+
+Task 4 does not have a run status after 3 retries
+Sorry guys I'm stuck here by Merino, Marcial
+Merino, Marcial
+11/6 10:44 PM
+
+Sorry guys I'm stuck here
+It needs a password to continue by Merino, Marcial
+Merino, Marcial
+11/6 10:45 PM
+
+It needs a password to continue
+Never mind. Got it all figured out. by Poly6 Floor2
+Poly6 Floor2
+11/7 12:31 AM
+
+Never mind. Got it all figured out.
+Jobs 6233769 and 6233768 need to be rescann... by Poly6 Floor2
+Poly6 Floor2
+11/7 3:31 AM
+
+Jobs 6233769 and 6233768 need to be rescanned due to being configured for a scan for the Old UI while the New UI was running and therefore those jobs a scan record was created but no scan was ever done. 
+
+ 
+
+ 
+The artifacts scans from midnight have not ... by Poly6 Floor2
+Poly6 Floor2
+11/7 3:31 AM
+Important
+
+The artifacts scans from midnight have not processed yet  
+Begin Reference, Jobs 6233769 and 6233768 n... by Mansperger, Rob
+Mansperger, Rob
+11/7 6:20 AM
+Poly6 Floor211/7/2025 3:31 AM
+Jobs 6233769 and 6233768 need to be rescanned due to being configured for a scan for the Old UI while the New UI was running and therefore those jobs a scan record was created but no scan was ever done.
+
+these jobs are available to be rescanned
+Begin Reference, The artifacts scans from m... by Anderson, Nick
+Anderson, Nick
+11/7 6:42 AM
+Poly6 Floor211/7/2025 3:31 AM
+The artifacts scans from midnight have not processed yet
+
+Those scans dont have any scan data associated with them. It looks like they were never run.
+what about job 6219483?   by Poly6 Floor2
+Poly6 Floor2
+11/7 6:54 AM
+
+what about job 6219483? 
+scan 34159 by Poly6 Floor2
+Poly6 Floor2
+11/7 6:55 AM
+
+Yupp that scan needs to be rescanned. by Anderson, Nick
+Anderson, Nick
+11/7 8:51 AM
+
+Yupp that scan needs to be rescanned.
+You can now rebatch 1037's by Anderson, Nick
+Anderson, Nick
+11/7 8:51 AM
+
+You can now rebatch 1037's
+Can you look at Job 6229584. It's showing a... by Poly6 Floor2, has an attachment.
+Poly6 Floor2
+11/10 4:04 AM
+
+Can you look at Job 6229584. It's showing as "analysis not done"
+This job was scanned Friday 11-7 and 1 is s... by Poly6 Floor2
+Poly6 Floor2
+11/11 4:06 AM
+
+This job was scanned Friday 11-7 and 1 is still processing can you look at this Nick?
+
+image
+Looking into this one. Its a doozey by Anderson, Nick
+Anderson, Nick
+11/11 7:43 AM
+
+Looking into this one. Its a doozey
+Ok this scan will need to be re-scanned. I ... by Anderson, Nick
+Anderson, Nick
+11/11 8:04 AM
+
+Ok this scan will need to be re-scanned. I will Flag it now.
+Let us know when we can rescan it please by Poly6 Floor2
+Poly6 Floor2
+11/11 8:08 AM
+
+Let us know when we can rescan it please
+3rd try to scan another artifact with this ... by Poly6 Floor2
+Poly6 Floor2
+11/11 8:12 AM
+
+3rd try to scan another artifact with this error
+
+image
+It should show up with the 'Rescan' button ... by Anderson, Nick
+Anderson, Nick
+11/11 8:13 AM
+
+It should show up with the 'Rescan' button in rebatch. Click the button once the tray has been moved back physically and the parts will be available to scan.
+oh bugger. Is the datamatrix sticker on the... by Anderson, Nick
+Anderson, Nick
+11/11 8:13 AM
+
+oh bugger. Is the datamatrix sticker on the back of the base still there?
+Yes I wiped it with my finger to get rid of... by Poly6 Floor2
+Poly6 Floor2
+11/11 8:13 AM
+
+Yes I wiped it with my finger to get rid of any dust
+The tray is physically moved back by Poly6 Floor2
+Poly6 Floor2
+11/11 8:14 AM
+
+The tray is physically moved back
+Ok ill remote in and dig deeper. Please put... by Anderson, Nick
+Anderson, Nick
+11/11 8:15 AM
+
+Ok ill remote in and dig deeper. Please put the artifact on the stage.
+It is in machine and door is shut by Poly6 Floor2
+Poly6 Floor2
+11/11 8:15 AM
+
+It is in machine and door is shut
+hmmm well its working now. Did you wipe the... by Anderson, Nick
+Anderson, Nick
+11/11 8:18 AM
+
+hmmm well its working now. Did you wipe the dust off jus tnow or before one of the times you tried it?
+I dusted off after the 2nd time and failed ... by Poly6 Floor2
+Poly6 Floor2
+11/11 8:19 AM
+
+I dusted off after the 2nd time and failed on the 3rd again.  That is when I sent them message
+I hit the rescan button but it will not all... by Poly6 Floor2
+Poly6 Floor2
+11/11 8:20 AM
+
+I hit the rescan button but it will not allow me to scan the parts on the 3821 job
+Why do you say that? I see them available i... by Anderson, Nick
+Anderson, Nick
+11/11 8:22 AM
+
+Why do you say that? I see them available in the list?
+It might have just taken a sec to show up a... by Anderson, Nick
+Anderson, Nick
+11/11 8:26 AM
+
+It might have just taken a sec to show up after the button was pressed
+yes it is scanning parts now by Poly6 Floor2
+Poly6 Floor2
+11/11 8:27 AM
+
+yes it is scanning parts now
+Nick, how come I'm not able to scan gs 1037... by Poly6 Floor2
+Poly6 Floor2
+11/11 1:01 PM
+
+Nick, how come I'm not able to scan gs 1037 on the new UI? am i doing something wrong 
+How specifically is it preventing you from ... by Anderson, Nick
+Anderson, Nick
+11/11 1:01 PM
+
+How specifically is it preventing you from scanning them?
+when i go on to scan 1037 gs qr code on the... by Poly6 Floor2
+Poly6 Floor2
+11/11 1:05 PM
+
+when i go on to scan 1037 gs qr code on the scanner, it doesn't look like it is reading it. I'm able to scan cores.  
+Are you able to scan in the qr code with ei... by Anderson, Nick
+Anderson, Nick
+11/11 1:06 PM
+
+Are you able to scan in the qr code with either the desk mounted keyence scanner or othe handheld black scanner? The yellow one cant read QR codes
+Also, whats the job number? by Anderson, Nick
+Anderson, Nick
+11/11 1:08 PM
+
+Also, whats the job number?
+I had only tried it with the desk mounted k... by Poly6 Floor2
+Poly6 Floor2
+11/11 1:10 PM
+
+I had only tried it with the desk mounted keyence. someone removed the handheld black scanner 
+Okay it is working now with the handheld sc... by Poly6 Floor2
+Poly6 Floor2
+11/11 1:11 PM
+
+Okay it is working now with the handheld scanner
+People can't just take equipment from stati... by Anderson, Nick
+Anderson, Nick
+11/11 1:13 PM
+
+People can't just take equipment from stations and expect things to keep working.
+That said, the desk mounted scanner should... by Anderson, Nick
+Anderson, Nick
+11/11 1:14 PM
+
+That said, the desk mounted scanner should work. If it's not we will have to take a look and get it back up and running.
+If you don't have the equipment you need, a... by Pashayan, Jack
+11/11 1:14 PM
+Pashayan, Jack
+
+If you don't have the equipment you need, ask a supervisor. It is much harder to support you when we don't know what you need
+Nick, Please check all 4 jobs below.  Some ... by Sirbak, Brian
+Sirbak, Brian
+11/12 4:28 AM
+
+Nick, Please check all 4 jobs below.  Some are from yesterday 1st and 2nd shift.
+
+image
+3 of the 4 jobs need a rescan. The quaranti... by Anderson, Nick
+Anderson, Nick
+11/12 9:09 AM
+
+3 of the 4 jobs need a rescan. The quarantined part showing in this image once again has giant voids in it and needs to be scrapped.
+Brian are all of these post fire scans that... by O'Riordan, Brian
+O'Riordan, Brian
+11/12 9:39 AM
+
+Brian are all of these post fire scans that haven't been sorted yet?
+1 job is going to final (3851) the other 3 ... by Poly6 Floor2
+Poly6 Floor2
+11/12 9:45 AM
+
+1 job is going to final (3851) the other 3 will go to Eng review then sort.
+Nick, trying to do another artifact and it ... by Poly6 Floor2
+Poly6 Floor2
+11/12 9:50 AM
+
+Nick, trying to do another artifact and it is failing for the 3rd time.
+
+image
+It started after the 5th try by Sirbak, Brian
+Sirbak, Brian
+11/12 9:59 AM
+It started after the 5th try
+Job Number 6238128-  can someone please mov... by Poly6 Floor2
+Poly6 Floor2
+11/12 10:11 AM
+
+Job Number 6238128-  can someone please move these parts back to ct scan? 
+What is the issue? by Pashayan, Jack
+11/12 10:11 AM
+Pashayan, Jack
+
+What is the issue?
+I believe this job had been scanned once. T... by Poly6 Floor2
+Poly6 Floor2
+11/12 10:13 AM
+
+I believe this job had been scanned once. These parts came back for another ct scan 
+Nvm Nick is aware of this job  by Poly6 Floor2
+Poly6 Floor2
+11/12 10:14 AM
+
+Nvm Nick is aware of this job 
+Scan 34394 for job 6238128 has been flagged... by Anderson, Nick
+Anderson, Nick
+11/12 10:20 AM
+
+Scan 34394 for job 6238128 has been flagged for rescan
+image by Poly6 Floor2
+Poly6 Floor2
+11/12 1:39 PM
+
+image
+Well thats lame. Have you tried hitting ret... by Anderson, Nick
+Anderson, Nick
+11/12 1:40 PM
+
+Well thats lame. Have you tried hitting retry at least once?
+This is my 4th time retrying. it is still s... by Poly6 Floor2
+Poly6 Floor2
+11/12 1:40 PM
+
+This is my 4th time retrying. it is still showing error inserting
+Bugger by Anderson, Nick
+Anderson, Nick
+11/12 1:40 PM
+
+Bugger
+what does that mean ? by Poly6 Floor2
+Poly6 Floor2
+11/12 1:41 PM
+
+what does that mean ?
+inserting error? by Poly6 Floor2
+Poly6 Floor2
+11/12 1:41 PM
+
+inserting error?
+I'm here. Please give me as much info as yo... by Pashayan, Jack
+11/12 1:41 PM
+Pashayan, Jack
+
+I'm here. Please give me as much info as you can about the scan you are starting
+So, I'm about to start scanning job number ... by Poly6 Floor2
+Poly6 Floor2
+11/12 1:43 PM
+
+So, I'm about to start scanning job number 6238721 and for some reason this error inserting sql kept showing up. It was my 4th time retrying start scan. 
+thanks for the details. I will investigate ... by Pashayan, Jack
+Wednesday 1:51 PM
+Pashayan, Jack
+
+thanks for the details. I will investigate and report back
+should wait ? or should move onto  the next... by Poly6 Floor2
+Poly6 Floor2
+Wednesday 1:59 PM
+
+should wait ? or should move onto  the next job?
+Hi, me again. This looks to be the known is... by Pashayan, Jack
+Wednesday 2:00 PM
+Pashayan, Jack
+
+Hi, me again. This looks to be the known issue of the job not transacting out of Patch correcly. I just fixed it, can you please load the scan in the new UI again?
+ok by Poly6 Floor2
+Poly6 Floor2
+Wednesday 2:02 PM
+
+ok
+Nope. still not working  by Poly6 Floor2
+Poly6 Floor2
+Wednesday 2:04 PM
+
+Nope. still not working 
+Okay by Pashayan, Jack
+Wednesday 2:04 PM
+Pashayan, Jack
+
+Okay
+After a job is moved I have seen it take a ... by Sirbak, Brian
+Sirbak, Brian
+Wednesday 2:04 PM
+After a job is moved I have seen it take a few minutes before able to get scanned at CT.
+Please move onto another job while I contin... by Pashayan, Jack
+Wednesday 2:05 PM
+Pashayan, Jack
+
+Please move onto another job while I continue investigating
+okay. thank you  by Poly6 Floor2
+Poly6 Floor2
+Wednesday 2:05 PM
+
+okay. thank you 
+I have more confidence you can scan 6238721... by Pashayan, Jack
+Wednesday 2:10 PM
+Pashayan, Jack
+
+I have more confidence you can scan 6238721 again now
+Okay. I will give it another try by Poly6 Floor2
+Poly6 Floor2
+Wednesday 2:15 PM
+
+Okay. I will give it another try
+Thank you by Pashayan, Jack
+Wednesday 2:15 PM
+Pashayan, Jack
+
+Thank you
+I'm hoping that no update means success? by Pashayan, Jack
+Wednesday 2:28 PM
+Pashayan, Jack
+
+I'm hoping that no update means success?
+Okay. it looks like it is working now  by Poly6 Floor2
+Poly6 Floor2
+Wednesday 2:30 PM
+
+Okay. it looks like it is working now 
+Nice! Thank you Hue by Pashayan, Jack
+Wednesday 2:30 PM
+Pashayan, Jack
+
+Nice! Thank you Hue
+Hey Jack, asking out of ignorance here... t... by O'Riordan, Brian
+O'Riordan, Brian
+Wednesday 7:59 PM
+
+Hey Jack, asking out of ignorance here... these jobs that require rescan... do we require you to move them back in order to do that or can operators move them back?  doesn't appear that the "Rescan" button is functional.
+
+image
+
+image
+now it appears only 6238128 has "rescan" de... by O'Riordan, Brian
+O'Riordan, Brian
+Wednesday 8:03 PM
+
+now it appears only 6238128 has "rescan" designations.  not sure what just changed
+Hi Nick, there are specific triggers for a ... by Pashayan, Jack
+Wednesday 8:25 PM
+Pashayan, Jack
+
+Hi Nick, there are specific triggers for a "Rescan" signal to out. I'm not sure what Nick defined them to be. Anything with the red button can be clicked by you, and then you'll just scan the parts again 
+Ok so hitting that red button was likely ac... by O'Riordan, Brian
+O'Riordan, Brian
+Thursday 3:26 AM
+Ok so hitting that red button was likely actually moving those jobs? Just didn’t look like it was responding right away.
+Job number 6219487. High scrap rate. by Moua, Hue
+Moua, Hue
+Thursday 1:34 PM
+
+Job number 6219487. High scrap rate.
+Hi Folks, Current plan for final CT 1028s i... by O'Riordan, Brian
+O'Riordan, Brian
+Thursday 1:35 PM
+
+Hi Folks,
+
+Current plan for final CT 1028s is to hold a job back if there are 4 or more parts failing dimensional.
+
+If 3 or fewer fail, we are going to scrap those parts in the system and move the job along but not physically destroy them.  We have two clearly marked "QC Rejected" foams at CT that we will stash them in, in case there is a path to revive them later.
+
+If holding a job back please share that that job # out to Scan Clan chat. (as Hue just did)
+
+Thanks
+6219487 is a high fire scan, so lets move t... by O'Riordan, Brian
+O'Riordan, Brian
+Thursday 1:38 PM
+
+6219487 is a high fire scan, so lets move that to Eng review.  thx
+Okay  by Moua, Hue
+Moua, Hue
+Thursday 1:40 PM
+
+Okay 
+image by Poly6 Floor2
+Poly6 Floor2
+Thursday 3:41 PM
+
+image
+image by Poly6 Floor2
+Poly6 Floor2
+Thursday 3:51 PM
+
+image
+image by Poly6 Floor2
+Poly6 Floor2
+Thursday 4:04 PM
+
+image
+image by Poly6 Floor2
+Poly6 Floor2
+Thursday 4:23 PM
+
+image
+Nick what does that mean? by Poly6 Floor2
+Poly6 Floor2
+Thursday 4:23 PM
+
+Nick what does that mean?
+I have not seen that before. by Sirbak, Brian
+Sirbak, Brian
+Thursday 4:41 PM
+I have not seen that before.
+Can you pull the lower corner of that error... by Sherman, Jeff
+Sherman, Jeff
+Thursday 4:46 PM
+
+Can you pull the lower corner of that error window out the right so we can see the whole message?
+i honestly cant move the error box, but i c... by Poly6 Floor2
+Poly6 Floor2
+Thursday 4:49 PM
+
+i honestly cant move the error box, but i can minimize it
+image by Poly6 Floor2
+Poly6 Floor2
+Thursday 4:49 PM
+
+image
+I think it is indicating that the machine d... by Sherman, Jeff
+Sherman, Jeff
+Thursday 4:50 PM
+
+I think it is indicating that the machine didn't recognize the "homed" state for one of the axes so would not execute the movement that was commanded. Is the machine operating normally other than this message or is it stopped?
+It is due for an artifact scan. Artifact is... by Poly6 Floor2
+Poly6 Floor2
+Thursday 4:51 PM
+
+It is due for an artifact scan. Artifact is in the middle of running atm 
+Ok. Let's let that complete. If this error ... by Sherman, Jeff
+Sherman, Jeff
+Thursday 4:53 PM
+
+Ok. Let's let that complete. If this error had not happened what would your next action normally be after this artefact scan completes?
+To continue scanning and scanning. by Moua, Hue
+Moua, Hue
+Thursday 4:54 PM
+
+To continue scanning and scanning.
+I'm not very familiar with the new UI. Are ... by Sherman, Jeff
+Sherman, Jeff
+Thursday 4:55 PM
+
+I'm not very familiar with the new UI. Are you able to command the machine to home?
+Yes, I was able to home the axes prior to i... by Moua, Hue
+Moua, Hue
+Thursday 4:57 PM
+
+Yes, I was able to home the axes prior to instruction that was given for the artifact scan 
+Are you able to just repeat that process on... by Sherman, Jeff
+Sherman, Jeff
+Thursday 4:58 PM
+
+Are you able to just repeat that process once this scan completes? I would feel more comfortable continuing if we can complete the homing and artefact scan without any errors.
+I'm not sure. I can't answer you on that. I... by Moua, Hue
+Moua, Hue
+Thursday 5:00 PM
+
+I'm not sure. I can't answer you on that. I'm fairly new with the UI also. Hopefully nick can give us an answer. 
+I suspect that this error is just a blip. S... by Sherman, Jeff
+Sherman, Jeff
+Thursday 5:00 PM
+
+I suspect that this error is just a blip. Something likely got slightly out of sequence in the background communications between machine and firmware and it tripped this error message. I don't think it indicates anything is seriously wrong. That said, I would just feel better about it if we could get through the whole home/artefact scan process without an error.
+How would you typically trigger it to perfo... by Sherman, Jeff
+Sherman, Jeff
+Thursday 5:01 PM
+
+How would you typically trigger it to perform an artefact scan? Can you just run back through that same process?
+So, from my understanding when doing an art... by Poly6 Floor2
+Poly6 Floor2
+Thursday 5:06 PM
+
+So, from my understanding when doing an artifact is there is a sequence of steps that i need to do. I have to make sure that all lights are green. I'm not sure if i can  repeat the process again. hopefully that somewhat answers your question
+image by Poly6 Floor2
+Poly6 Floor2
+Thursday 5:06 PM
+
+image
+I'm currently on running the Run detector c... by Poly6 Floor2
+Poly6 Floor2
+Thursday 5:07 PM
+
+I'm currently on running the Run detector calibration 
+The artifact automictically notify me when ... by Poly6 Floor2
+Poly6 Floor2
+Thursday 5:10 PM
+
+The artifact automictically notify me when a artifact is due. it will not let me proceed forward on scanning parts. Once I complete the steps and everything is green, im not sure if i can go back 
+Ok. Please continue. I am 99% sure that thi... by Sherman, Jeff
+Sherman, Jeff
+Thursday 5:24 PM
+
+Ok. Please continue. I am 99% sure that this error is not critical.
+If there is a problem we will see it in the... by Sherman, Jeff
+Sherman, Jeff
+Thursday 5:24 PM
+
+If there is a problem we will see it in the artefact scan results and can take action based on that.
+image by Poly6 Floor2
+Poly6 Floor2
+Thursday 6:51 PM
+
+image
+it is not showing green light  by Poly6 Floor2
+Poly6 Floor2
+Thursday 6:51 PM
+
+it is not showing green light 
+image by Poly6 Floor2
+Poly6 Floor2
+Thursday 6:51 PM
+
+image
+image by Poly6 Floor2
+Poly6 Floor2
+Thursday 6:53 PM
+
+image
+Looks right by Sirbak, Brian
+Sirbak, Brian
+Thursday 6:53 PM
+Looks right
+Can’t read it by Sirbak, Brian
+Sirbak, Brian
+Thursday 6:54 PM
+Can’t read it
+image by Poly6 Floor2
+Poly6 Floor2
+Thursday 6:54 PM
+
+image
+You likely need to click "Continue" on that... by Sherman, Jeff
+Sherman, Jeff
+Thursday 6:55 PM
+
+You likely need to click "Continue" on that error window that you minimized
+It is telling me that i need a value when i... by Poly6 Floor2
+Poly6 Floor2
+Thursday 6:55 PM
+
+It is telling me that i need a value when i hit continue
+Can you show a screen shot? by Sherman, Jeff
+Sherman, Jeff
+Thursday 6:56 PM
+
+Can you show a screen shot?
+image by Poly6 Floor2
+Poly6 Floor2
+Thursday 6:56 PM
+
+image
+you could try pxstech by Sherman, Jeff
+Sherman, Jeff
+Thursday 6:56 PM
+
+you could try pxstech
+Error box is still there  by Poly6 Floor2
+Poly6 Floor2
+Thursday 6:57 PM
+
+Error box is still there 
+Can you now press Continue again? by Sherman, Jeff
+Sherman, Jeff
+Thursday 6:58 PM
+
+Can you now press Continue again?
+Yeah and it is tell me to type in the value by Poly6 Floor2
+Poly6 Floor2
+Thursday 6:58 PM
+
+Yeah and it is tell me to type in the value 
+telling* by Poly6 Floor2
+Poly6 Floor2
+Thursday 6:58 PM
+
+telling*
+Alright. Then please press shutdown by Sherman, Jeff
+Sherman, Jeff
+Thursday 6:58 PM
+
+Alright. Then please press shutdown
+I assume no scan is running? by Sherman, Jeff
+Sherman, Jeff
+Thursday 6:59 PM
+
+I assume no scan is running?
+the artifact is inside  by Poly6 Floor2
+Poly6 Floor2
+Thursday 6:59 PM
+
+the artifact is inside 
+Ok. Can you just open the door and remove i... by Sherman, Jeff
+Sherman, Jeff
+Thursday 6:59 PM
+
+Ok. Can you just open the door and remove it?
+Okay. look like the error box went away  by Poly6 Floor2
+Poly6 Floor2
+Thursday 7:00 PM
+
+Okay. look like the error box went away 
+Is the error log window still open? by Sherman, Jeff
+Sherman, Jeff
+Thursday 7:01 PM
+
+Is the error log window still open?
+no. it went away. ct is good now  by Poly6 Floor2
+Poly6 Floor2
+Thursday 7:01 PM
+
+no. it went away. ct is good now 
+image by Poly6 Floor2
+Poly6 Floor2
+Thursday 7:02 PM
+
+image
+everything is green now.  by Poly6 Floor2
+Poly6 Floor2
+Thursday 7:02 PM
+
+everything is green now. 
+Hmmm... I don't think the PiXS software is ... by Sherman, Jeff
+Sherman, Jeff
+Thursday 7:03 PM
+
+Hmmm... I don't think the PiXS software is running though. If that error log window is gone then the software might have closed.
+so, are you saying that we should do anothe... by Poly6 Floor2
+Poly6 Floor2
+Thursday 7:03 PM
+
+so, are you saying that we should do another artifact scan ? 
+Hey sorry was outside at the fire. This loo... by Anderson, Nick
+Anderson, Nick
+Thursday 7:04 PM
+
+Hey sorry was outside at the fire. This looks like a full restart situation. Is the status light green?
+I will now pass control to Nick and slowly ... by Sherman, Jeff
+Sherman, Jeff
+Thursday 7:05 PM
+
+I will now pass control to Nick and slowly step away...
+image by Poly6 Floor2
+Poly6 Floor2
+Thursday 7:14 PM
+
+image
+status is green by Poly6 Floor2
+Poly6 Floor2
+Thursday 7:14 PM
+
+status is green
+Ok, try to run a scan and let's see what ha... by Anderson, Nick
+Anderson, Nick
+Thursday 7:21 PM
+
+Ok, try to run a scan and let's see what happens.
+I tried to run another artifact scan due to... by Poly6 Floor2, has an attachment.
+Poly6 Floor2
+Thursday 10:48 PM
+
+I tried to run another artifact scan due to what Hue told me and from what I read on the chat. I looked into re batch and HUE's artifact scan is still processing or (no data?)
+When I try to scan the artifact it gives me... by Poly6 Floor2, has an attachment.
+Poly6 Floor2
+Thursday 10:51 PM
+
+When I try to scan the artifact it gives me an error.
+I've retried a few times and get the same e... by Poly6 Floor2
+Poly6 Floor2
+Thursday 10:52 PM
+
+I've retried a few times and get the same error.
+Will restart the computer. by Poly6 Floor2
+Poly6 Floor2
+Thursday 10:52 PM
+
+Will restart the computer.
+Started artifact scan by Poly6 Floor2
+Poly6 Floor2
+Thursday 11:07 PM
+
+Started artifact scan
+Brady printer is down by Poly6 Floor2
+Poly6 Floor2
+Friday 12:54 AM
+
+Brady printer is down
+Job 6243090 has 18 of 22 cores failling  It... by Leone, Benjamin, has an attachment.
+Leone, Benjamin
+Yesterday 3:48 AM
+
+Job 6243090 has 18 of 22 cores failling  It is a POR job. Can we take a look at the data and see if it's correct? 
+Thanks. Checking is good first step. even r... by O'Riordan, Brian
+O'Riordan, Brian
+Yesterday 4:05 AM
+Thanks. Checking is good first step. even results are correct let’s hold off on scrapping until product team can review as well
+CT artifact failed - Filament status light ... by Poly6 Floor2, has an attachment.
+Poly6 Floor2
+Yesterday 4:50 AM
+
+CT artifact failed - Filament status light is yellow 
+Filament = yellow is not a problem in itsel... by Sherman, Jeff
+Sherman, Jeff
+Yesterday 4:53 AM
+Filament = yellow is not a problem in itself. That is driven by a timer. It isn’t indicative that anything has changed in the machine.
+5 parts failed in this job to look at data.... by Poly6 Floor2
+Poly6 Floor2
+Yesterday 6:05 AM
+
+5 parts failed in this job to look at data.
+
+image
+Only 1 part passed in this job. image by Poly6 Floor2
+Poly6 Floor2
+Yesterday 6:11 AM
+
+Only 1 part passed in this job.
+
+image
+All failed image by Poly6 Floor2
+Poly6 Floor2
+Yesterday 6:19 AM
+
+All failed
+
+image
+Looks like we've had 2 passing artifact sca... by Anderson, Nick
+Anderson, Nick
+Yesterday 6:23 AM
+
+Looks like we've had 2 passing artifact scans since the failed one. Response for this is straight forward. All scans that need to be redone are automatically flagged at rebatch. 
+
+ 
+
+I am looking to see if there is any reason to doubt the CT data for these jobs that have been highlighted as having a high scrap rate. Stay tuned.
+image by Poly6 Floor2
+Poly6 Floor2
+Yesterday 6:24 AM
+
+image
+image by Poly6 Floor2
+Poly6 Floor2
+Yesterday 6:26 AM
+
+image
+Most recent artifact scan failed scan numbe... by Leone, Benjamin
+Leone, Benjamin
+Yesterday 6:26 AM
+
+Most recent artifact scan failed scan number 34637
+I see you ran 4 artifact scans in a row. Wh... by Anderson, Nick
+Anderson, Nick
+Yesterday 6:35 AM
+
+I see you ran 4 artifact scans in a row. What was done between them?
+Yep    First artifact when I started (Scan ... by Leone, Benjamin
+Leone, Benjamin
+Yesterday 6:51 AM
+
+Yep    First artifact when I started (Scan 34633) than home axis and calibration and ran the post homing artifact  (34634)     Saw the first scan failed so I rescanned the artifact again (34636) and went thought the start-up sequence again. The status light were green. I still redid home axis and calibration. After this the next artifact scan (34637) failed 
+Begin Reference, Yep First artifact when... by Leone, Benjamin
+Leone, Benjamin
+Yesterday 6:57 AM
+Leone, Benjamin11/18/2025 6:51 AM
+Yep First artifact when I started (Scan 34633) than home axis and calibration and ran the post homing artifact (34634) Saw the first scan failed so I rescanned the artifact again (34636) and went thought the start-up sequence again. The status light were green. I still redid home axis and c…
+
+I think my issue was redoing the homing when it wasn't needed  
+ok, in the future don't re-run the whole ho... by Anderson, Nick
+Anderson, Nick
+Yesterday 6:57 AM
+
+ok, in the future don't re-run the whole homing process if the post-homing scan passes. Homing can introduce error occasionally (which is why we run an artifact after) and it looks like the first time you corrected the error then, when you ran it again, introduced it back. Its a small shift but we are running on the edge of spec so its enough to push us just out of spec. 
+First step now is to repeat the homing proc... by Anderson, Nick
+Anderson, Nick
+Yesterday 6:58 AM
+
+First step now is to repeat the homing process and run another artifact scan. No need to do the detector calibration or a pre-home scan
+Copy by Leone, Benjamin
+Leone, Benjamin
+Yesterday 6:58 AM
+
+Copy
+If we are in, continue to scan as normal. I... by Anderson, Nick
+Anderson, Nick
+Yesterday 6:59 AM
+
+If we are in, continue to scan as normal. If we are out I will help troubleshoot further
+looks like 6235520 and 6243155 are both 103... by O'Riordan, Brian
+O'Riordan, Brian
+Yesterday 7:43 AM
+
+looks like 6235520 and 6243155 are both 1037s, so as discussed lets send those to Eng review
+Artifact passed  Party popper Finishing the... by Leone, Benjamin
+Leone, Benjamin
+Yesterday 7:59 AM
+
+Artifact passed 🎉
+
+Finishing the Adhoc 1028 Greenstate MesoRez scans from yesterday and than switching to the New UI for production 
+What happened to the other 3 jobs indicated... by Anderson, Nick
+Anderson, Nick
+Yesterday 8:04 AM
+
+What happened to the other 3 jobs indicated above?
+Moved them to ENG Review if it was a 1037 j... by Leone, Benjamin
+Leone, Benjamin
+Yesterday 8:05 AM
+
+Moved them to ENG Review if it was a 1037 job 
+So all 5 jobs you highlighted above for 103... by Anderson, Nick
+Anderson, Nick
+Yesterday 8:05 AM
+
+So all 5 jobs you highlighted above for 1037?
+Job 6243090 and 6238662 are 1028     Job 62... by Leone, Benjamin
+Leone, Benjamin
+Yesterday 8:06 AM
+
+Job 6243090 and 6238662 are 1028    
+
+Job 6238662  I Scraped 5 and moved it to Final Vis     these 5 parts are next to CT in the foam 
+6238677 also 1028 by O'Riordan, Brian
+O'Riordan, Brian
+Yesterday 8:08 AM
+
+6238677 also 1028
+If you want me to investigate any jobs I ne... by Anderson, Nick
+Anderson, Nick
+Yesterday 8:22 AM
+
+If you want me to investigate any jobs I need a list. Most of the numbers that have been thrown out so far are no longer at rebatch
+6243090 for sure.  I thought we were holdin... by O'Riordan, Brian
+O'Riordan, Brian
+Yesterday 8:30 AM
+
+6243090 for sure.  I thought we were holding back 6238677 but it appears we moved that
+ok, for 6243090 all of the parts are failin... by Anderson, Nick
+Anderson, Nick
+Yesterday 8:37 AM
+
+ok, for 6243090 all of the parts are failing for OAL. The artifact was in spec for these scans and the data looks clean so I have no reason to believe the data is invalid.
+It appears this job is just small in genera by Anderson, Nick
+Anderson, Nick
+Yesterday 8:37 AM
+
+It appears this job is just small in general
+thanks by O'Riordan, Brian
+O'Riordan, Brian
+Yesterday 9:06 AM
+
+thanks
+Nick, Need some help.  Keep getting this er... by Poly6 Floor2
+Poly6 Floor2
+Yesterday 11:38 AM
+
+Nick, Need some help.  Keep getting this error.
+
+image
+I can help. Please tell me the job by Pashayan, Jack
+Yesterday 11:42 AM
+Pashayan, Jack
+
+I can help. Please tell me the job
+Nevermind, I see it by Pashayan, Jack
+Yesterday 11:42 AM
+Pashayan, Jack
+
+Nevermind, I see it
+Can you help Jack?   Ben needs to go to the... by Poly6 Floor2
+Poly6 Floor2
+Yesterday 11:45 AM
+
+Can you help Jack?  
+
+Ben needs to go to the old UI will that affect what trouble shooting you or Nick need to do?
+Yes, one second by Pashayan, Jack
+Yesterday 11:45 AM
+Pashayan, Jack
+
+Yes, one second
+Okay, please try starting the scan again by Pashayan, Jack
+Yesterday 11:46 AM
+Pashayan, Jack
+
+Okay, please try starting the scan again
+And continue to use the new UI please by Pashayan, Jack
+Yesterday 11:46 AM
+Pashayan, Jack
+
+And continue to use the new UI please
+Ben needs to scan some dies by Poly6 Floor2
+Poly6 Floor2
+Yesterday 11:46 AM
+
+Ben needs to scan some dies
+Rescanning did not work.  Same error by Poly6 Floor2
+Poly6 Floor2
+Yesterday 11:47 AM
+
+Rescanning did not work.  Same error
+Any other ideas Jack? by Poly6 Floor2
+Poly6 Floor2
+Yesterday 11:49 AM
+
+Any other ideas Jack?
+I did what worked for us last time. Please ... by Pashayan, Jack
+Yesterday 11:49 AM
+Pashayan, Jack
+
+I did what worked for us last time. Please scan other parts while I look into it more deeply
+You are ready to scan these parts again by Pashayan, Jack
+Yesterday 12:13 PM
+Pashayan, Jack
+
+You are ready to scan these parts again
+Hi Team!!! Job#6243141 I can not move these... by Poly6 Floor2
+Poly6 Floor2
+Yesterday 8:58 PM
+
+Hi Team!!! Job#6243141 I can not move these parts 
+
+image
+new UI says its running but its not. The do... by Poly6 Floor2
+Poly6 Floor2
+Yesterday 9:16 PM
+
+new UI says its running but its not. The dot is yellow while door was open. -Marcial
+image why? by Poly6 Floor2
+Poly6 Floor2
+Yesterday 10:12 PM
+
+image
+
+why?
+image ?? by Poly6 Floor2
+Poly6 Floor2
+Yesterday 10:13 PM
+
+image
+
+??
+Job # 6257554 needs CT scan from DIES Hub by Merino, Marcial
+Merino, Marcial
+2:57 AM
+
+Job # 6257554 needs CT scan from DIES Hub
+Job #6243141 is stuck in post fire sort. by Merino, Marcial
+Merino, Marcial
+2:57 AM
+
+Job #6243141 is stuck in post fire sort.
+Begin Reference, 📷 ??, Poly6 Floor2, 11/... by Pashayan, Jack
+1:39 PM
+Pashayan, Jack
+Poly6 Floor211/18/2025 10:13 PM
+📷 ??
+
+We don't have a great explanation for this right now unfortunately, but we will look into it when we can. We can also make sure that you have access to the SOP/SPEC another way in the meantime
+has context menu
+
+
+

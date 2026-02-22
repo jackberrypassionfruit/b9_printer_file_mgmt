@@ -1,19 +1,11 @@
 <div class="flex items-center justify-center fixed z-10 w-4/5 h-full left-[10%] top-0" role="dialog"
     tabindex="-1" x-show="isModalOpen" x-on:click.away="isModalOpen = false" x-cloak x-transition>
     <div class="bg-white rounded-lg max-w-[800px] p-8 m-auto">
-        <div class="flex items-center justify-between border-b-2 border-black">
+        <div class="flex flex-row items-center justify-between border-b-2 border-black">
             <h3 x-text="selected_printer" class="text-2xl font-bold"></h3>
             <a aria-label="Close" x-on:click="isModalOpen = false">✖</a>
         </div>
-        <ul id="files-this-printer"></ul>
-        <button class="border-2 border-solid bg-red-400 rounded-lg p-2 mt-2"
-            x-on:click="isModalOpen = false"
-        >Cancel
-        </button>
-        <button class="border-2 border-solid bg-blue-400 rounded-lg p-2 mt-2"
-            x-on:click="isModalOpen = false" id="move"
-        >Are you sure?
-        </button>
+        <ul id="files-this-printer" class="my-4"></ul>
     </div>
 </div>
 
