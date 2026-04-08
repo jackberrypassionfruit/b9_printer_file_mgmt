@@ -5,9 +5,9 @@
                     isModalOpen = true;
                     selected_printer = '{{ printer.equipment_id }}';
                 "
-                hx-vals="selected_printer: '{{ printer.equipment_id }}'"
                 hx-get="{% url 'b9_files' %}"
-                hx-target="#files-this-printer"
+                hx-headers='{"selected-printer": "{{ printer.equipment_id }}"}'
+                hx-target="#files-this-printer-target"
                 hx-swap="innerHTML"
             >
                 <c-printer-display.printer-item-550X  printer_id="{{ printer.equipment_id }}" />

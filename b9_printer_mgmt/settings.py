@@ -31,7 +31,7 @@ ALLOWED_HOSTS = ["*"]
 # Application definition
 
 INSTALLED_APPS = [
-    "livereload",
+    # "livereload",
     "django_cotton",
     "django.contrib.admin",
     "django.contrib.auth",
@@ -55,7 +55,7 @@ MIDDLEWARE = [
     "django.contrib.messages.middleware.MessageMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
     "allauth.account.middleware.AccountMiddleware",
-    "livereload.middleware.LiveReloadScript",
+    # "livereload.middleware.LiveReloadScript",
 ]
 
 ROOT_URLCONF = "b9_printer_mgmt.urls"

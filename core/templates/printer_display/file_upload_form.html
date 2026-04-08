@@ -1,10 +1,9 @@
 <form id="file-upload"
-    method="post" 
     enctype="multipart/form-data" 
     hx-post="{% url 'b9_files' %}" 
-    hx-vals="method: 'upload_file'"
+    hx-headers='{"method": "upload_file"}'
     hx-encoding="multipart/form-data"
-    hx-target="#files-this-printer"
+    hx-target="#files-this-printer-target"
     hx-swap="innerHTML"
 >
     {% csrf_token %}

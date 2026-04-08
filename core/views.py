@@ -1,5 +1,4 @@
 from django.shortcuts import render
-from django.http import HttpResponse
 from .forms import FileUploadForm
 from django.conf import settings
 
@@ -51,13 +50,15 @@ def get_printers(request):
 def b9_files(request):
     selected_printer, b9_printer_dir, selected_file_to_delete, method = "", "", "", ""
     if request.method in ["POST"]:
-        method = request.POST["method"].strip()
+        # method = request.POST["method"].strip()
+        method = request.headers.get("method").strip()
         selected_printer = request.POST["selected_printer"].strip()
         if method == "delete_file":
             selected_file_to_delete = request.POST["selected_file"].strip()
 
     elif request.method == "GET":
-        selected_printer = request.GET["selected_printer"].strip()
+        # selected_printer = request.GET["selected_printer"].strip()
+        selected_printer = request.headers.get("selected-printer")
     if request.method in ["GET", "POST", "DELETE"]:
         b9_printer_dir = os.path.join(B9_PRINTER_FILES_ROOT, selected_printer)
         os.makedirs(b9_printer_dir, exist_ok=True)
