@@ -1,4 +1,16 @@
-<ul id="files-this-printer">
+<ul 
+    id="files-this-printer" 
+    class="border-2 border-dashed"
+    hx-post="{% url 'b9_files' %}"
+    hx-trigger="fileAdded"
+    hx-vals='js:{
+        selected_printer": "{{ selected_printer }}",
+        method: "drag_file",
+        file_path: event.detail ? event.detail.file_path : null
+    }'
+    hx-target="#files-this-printer-target"
+    hx-swap="innerHTML"
+>
     {% for file in files %}
         <li 
             class="list-disc flex flex-row items-center justify-between"
@@ -18,12 +30,12 @@
             <form 
                 x-show="confirm_delete"
                 hx-post="{% url 'b9_files' %}"
-                hx-vals="
-                    selected_printer: '{{ file.this_printer}}',
-                    selected_file: '{{ file.file_name }}',
-                    method: 'delete_file'
-                "
-                hx-target="#files-this-printer"
+                hx-vals='{
+                    "selected_printer": "{{ selected_printer }}",
+                    "selected_file": "{{ file.file_name }}",
+                    "method": "delete_file"
+                }'
+                hx-target="#files-this-printer-target"
                 hx-swap="innerHTML"
             >
                 {% csrf_token %}
@@ -39,4 +51,10 @@
 
 <div class="my-4">
     {% include 'printer_display/file_upload_form.html' %}
+</div>
+
+<div id="file-bank" hx-swap-oob="innerHTML">
+    {% for file in bank_files %}
+        <li data-file-path={{ file.path }}>{{ file.name }}</li>
+    {% endfor %}
 </div>

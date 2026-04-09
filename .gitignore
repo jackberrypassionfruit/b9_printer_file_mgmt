@@ -164,3 +164,4 @@ cython_debug/
 
 # myOwn
 **/b9_printer_files/
+**/node_modules

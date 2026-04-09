@@ -1,9 +1,11 @@
 from django.shortcuts import render
 from .forms import FileUploadForm
 from django.conf import settings
+from django.http import HttpRequest
 
 import os
 import csv
+import shutil
 
 # read in the list of printers
 in_f_path = os.path.join(".", "test_data", "b9_active_printers.csv")
@@ -19,9 +21,9 @@ for printer in printers_list:
     else:
         printers_by_model[printer["model_number"]].append(printer)
 
-B9_PRINTER_FILES_ROOT = b9_printer_dir = os.path.join(
-    settings.MEDIA_ROOT, "b9_printer_files"
-)
+B9_PRINTER_FILES_ROOT = os.path.join(settings.MEDIA_ROOT, "b9_printer_files")
+
+BANK_FILES_ROOT = os.path.join(settings.MEDIA_ROOT, "file_bank")
 
 
 def index(request):
@@ -50,8 +52,7 @@ def get_printers(request):
 def b9_files(request):
     selected_printer, b9_printer_dir, selected_file_to_delete, method = "", "", "", ""
     if request.method in ["POST"]:
-        # method = request.POST["method"].strip()
-        method = request.headers.get("method").strip()
+        method = request.POST["method"].strip()
         selected_printer = request.POST["selected_printer"].strip()
         if method == "delete_file":
             selected_file_to_delete = request.POST["selected_file"].strip()
@@ -85,6 +86,10 @@ def b9_files(request):
 
             print(f'From "{selected_printer}", deleting "{selected_file_to_delete}"')
             os.remove(file_path)
+        elif method == "drag_file":
+            # TODO this is also where B9 API firmware could be called
+            banked_file_path = request.POST.get("file_path")
+            shutil.copy(banked_file_path, b9_printer_dir)
 
     if request.method in ["GET", "POST"]:
         files_in_dir = [
@@ -98,10 +103,17 @@ def b9_files(request):
 
         form = FileUploadForm()
 
+        bank_files = [
+            {"name": file.name, "path": file.path}
+            for file in os.scandir(BANK_FILES_ROOT)
+            if file.name not in [f["file_name"] for f in files_in_dir]
+        ]
+
         context = {
             "files": files_in_dir,
             "form": form,
             "selected_printer": selected_printer,
+            "bank_files": bank_files,
         }
         return render(
             request, "printer_display/partials/files-this-printer.html", context
