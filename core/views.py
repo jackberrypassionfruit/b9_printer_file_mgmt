@@ -26,6 +26,36 @@ B9_PRINTER_FILES_ROOT = os.path.join(settings.MEDIA_ROOT, "b9_printer_files")
 BANK_FILES_ROOT = os.path.join(settings.MEDIA_ROOT, "file_bank")
 
 
+def _get_files_in_dir(b9_printer_dir):
+    files_in_dir = []
+    for file in sorted(os.scandir(b9_printer_dir), key=lambda f: f.name):
+        if file.is_dir():
+            try:
+                file = next(os.scandir(file))
+            except:
+                file = None
+        if file:
+            files_in_dir.append(
+                {
+                    "file_name": file.name,
+                    "file_path": file.path,
+                }
+            )
+    return files_in_dir
+
+
+def _shake_files(files_in_dir, b9_printer_dir):
+    for i, file in enumerate(files_in_dir):
+        sub_folder = str(i + 1).zfill(2)
+        src_file = file["file_path"]
+        dest_dir = os.path.join(b9_printer_dir, sub_folder)
+        os.makedirs(dest_dir, exist_ok=True)
+        try:
+            shutil.move(src_file, dest_dir)
+        except Exception as e:
+            print(e)
+
+
 def index(request):
     context = {}
     return render(request, "base/index.html", context)
@@ -50,12 +80,25 @@ def get_printers(request):
 
 
 def b9_files(request):
-    selected_printer, b9_printer_dir, selected_file_to_delete, method = "", "", "", ""
+    (
+        selected_printer,
+        b9_printer_dir,
+        file_to_delete,
+        file_path_to_delete,
+        method,
+    ) = (
+        "",
+        "",
+        "",
+        "",
+        "",
+    )
     if request.method in ["POST"]:
         method = request.POST["method"].strip()
         selected_printer = request.POST["selected_printer"].strip()
         if method == "delete_file":
-            selected_file_to_delete = request.POST["selected_file"].strip()
+            file_to_delete = request.POST["selected_file"].strip()
+            # file_path_to_delete = request.POST["selected_file_path"].strip()
 
     elif request.method == "GET":
         # selected_printer = request.GET["selected_printer"].strip()
@@ -63,6 +106,11 @@ def b9_files(request):
     if request.method in ["GET", "POST", "DELETE"]:
         b9_printer_dir = os.path.join(B9_PRINTER_FILES_ROOT, selected_printer)
         os.makedirs(b9_printer_dir, exist_ok=True)
+
+        # Shuffle all parts to the top of the filesystem
+        # ie. for each file o the printer, add it to the folder of its index
+        # If you are uploading a new file, first make sure that the folder of the highest index exists first
+        files_in_dir = _get_files_in_dir(b9_printer_dir)
 
     if request.method == "POST":
         if method == "upload_file":
@@ -81,25 +129,26 @@ def b9_files(request):
 
             else:
                 print(form.errors)
-        elif method == "delete_file":
-            file_path = os.path.join(b9_printer_dir, selected_file_to_delete)
-
-            print(f'From "{selected_printer}", deleting "{selected_file_to_delete}"')
-            os.remove(file_path)
         elif method == "drag_file":
             # TODO this is also where B9 API firmware could be called
             banked_file_path = request.POST.get("file_path")
             shutil.copy(banked_file_path, b9_printer_dir)
+        elif method == "delete_file":
+            # because the HTML tag's data path might've changed during dragging,
+            # just reference files_in_dir on matching filename
+            file_path_to_delete = [
+                file["file_path"]
+                for file in files_in_dir
+                if file["file_name"] == file_to_delete
+            ][0]
+            print(f'From "{selected_printer}", deleting "{file_to_delete}"')
+            os.remove(file_path_to_delete)
 
     if request.method in ["GET", "POST"]:
-        files_in_dir = [
-            {
-                "file_name": file_name,
-                "file_path": os.path.join(b9_printer_dir, file_name),
-                "this_printer": selected_printer,
-            }
-            for file_name in os.listdir(b9_printer_dir)
-        ]
+        # do it again bc you just changed the files
+        files_in_dir = _get_files_in_dir(b9_printer_dir)
+        # make sure the priority queue stays incrementing from 1
+        _shake_files(files_in_dir, b9_printer_dir)
 
         form = FileUploadForm()
 

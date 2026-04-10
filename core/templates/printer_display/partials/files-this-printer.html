@@ -4,8 +4,10 @@
     hx-post="{% url 'b9_files' %}"
     hx-trigger="fileAdded"
     hx-vals='js:{
-        selected_printer": "{{ selected_printer }}",
+        selected_printer: "{{ selected_printer }}",
         method: "drag_file",
+        // ternary op is necessary because inner form hx-post tries to
+        // inherits file_path from hx-vals but should fail quietly
         file_path: event.detail ? event.detail.file_path : null
     }'
     hx-target="#files-this-printer-target"
@@ -18,7 +20,7 @@
         >
             <a 
                 class="btn btn-primary max-w-md h-auto p-1"
-                href="{{ MEDIA_URL }}b9_printer_files/{{ file.this_printer }}/{{ file.file_name }}"
+                href="{{ MEDIA_URL }}b9_printer_files/{{ selected_printer }}/{{ file.file_name }}"
                 download
             >
                 {{ file.file_name }}
@@ -33,14 +35,15 @@
                 hx-vals='{
                     "selected_printer": "{{ selected_printer }}",
                     "selected_file": "{{ file.file_name }}",
+                    "selected_file_path": "{{ file.file_path }}",
                     "method": "delete_file"
                 }'
                 hx-target="#files-this-printer-target"
                 hx-swap="innerHTML"
             >
                 {% csrf_token %}
-                {% comment %} <input type="hidden" name="selected_printer" value="{{ file.this_printer}}"></input>
-                <input type="hidden" name="selected_file" value="{{ MEDIA_URL }}b9_printer_files/{{ file.this_printer }}/{{ file.file_name }}"></input> {% endcomment %}
+                {% comment %} <input type="hidden" name="selected_printer" value="{{ selected_printer}}"></input>
+                <input type="hidden" name="selected_file" value="{{ MEDIA_URL }}b9_printer_files/{{ selected_printer }}/{{ file.file_name }}"></input> {% endcomment %}
                 <button class="btn btn-accent m-2">CONFIRM</button>
             </form>
         </li>

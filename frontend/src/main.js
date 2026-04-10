@@ -21,7 +21,7 @@ function initSortables() {
     const bankEl = document.getElementById('file-bank')
     if (bankEl && !bankEl.sortableInstance) {
         bankEl.sortableInstance = Sortable.create(bankEl, {
-            group: { name: 'sorts', pull: true, put: true },
+            group: { name: 'sorts', pull: true, put: false },
             animation: 150
         })
     }
@@ -29,7 +29,7 @@ function initSortables() {
     const queueEl = document.getElementById('files-this-printer')
     if (queueEl && !queueEl.sortableInstance) {
         queueEl.sortableInstance = Sortable.create(queueEl, {
-            group: { name: 'sorts', pull: true, put: true },
+            group: { name: 'sorts', pull: false, put: true },
             animation: 150,
             onAdd(evt) {
                 queueEl.dispatchEvent(new CustomEvent('fileAdded', {
@@ -37,11 +37,15 @@ function initSortables() {
                     detail: {
                         file_path: evt.item.dataset.filePath,
                     }
-                }))
+                }));
+                console.log(evt);
+            },
+            onUpdate(evt) {
+                console.log(evt)
             }
         })
     }
 }
 
-document.addEventListener('DOMContentLoaded', initSortables)
+// document.addEventListener('DOMContentLoaded', initSortables)
 document.addEventListener('htmx:afterSwap', initSortables)
